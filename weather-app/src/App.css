@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.city-selector-wrapper {
+  background-color: rgb(150, 190, 255);
+  background-repeat: no-repeat;
+  background-size: 2000px 250px;
+  padding: 10px;
+  flex: 1;
+}
+.forcast-dashboards-wrapper {
+  flex: 23;
+}

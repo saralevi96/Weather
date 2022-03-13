@@ -1,0 +1,10620 @@
+[{
+  "id": 281184,
+  "name": "Jerusalem",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.216331,
+      "lat": 31.769039
+  }
+},
+{
+  "id": 282582,
+  "name": "Har Adar",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.130932,
+      "lat": 31.827539
+  }
+},
+{
+  "id": 284305,
+  "name": "Beit Ṣafāfā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.203041,
+      "lat": 31.74267
+  }
+},
+{
+  "id": 293014,
+  "name": "Ẕur Moshe",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.913132,
+      "lat": 32.298191
+  }
+},
+{
+  "id": 293020,
+  "name": "Ẕur Hadassa",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.09549,
+      "lat": 31.717939
+  }
+},
+{
+  "id": 293100,
+  "name": "Safed",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.500488,
+      "lat": 32.965641
+  }
+},
+{
+  "id": 293148,
+  "name": "Yotvata",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.049999,
+      "lat": 29.883329
+  }
+},
+{
+  "id": 293153,
+  "name": "Yoqne‘am ‘Illit",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.133331,
+      "lat": 32.666672
+  }
+},
+{
+  "id": 293162,
+  "name": "Yodefat",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.26944,
+      "lat": 32.836109
+  }
+},
+{
+  "id": 293181,
+  "name": "Yirkā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.212002,
+      "lat": 32.953758
+  }
+},
+{
+  "id": 293198,
+  "name": "Jerusalem",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.0,
+      "lat": 31.75
+  }
+},
+{
+  "id": 293203,
+  "name": "Yeroẖam",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.931389,
+      "lat": 30.987221
+  }
+},
+{
+  "id": 293220,
+  "name": "Yavne’el",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.506618,
+      "lat": 32.70356
+  }
+},
+{
+  "id": 293222,
+  "name": "Yavné",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.740002,
+      "lat": 31.87639
+  }
+},
+{
+  "id": 293253,
+  "name": "Jaffa",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.752239,
+      "lat": 32.05043
+  }
+},
+{
+  "id": 293260,
+  "name": "Yad H̱anna",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.0,
+      "lat": 32.316669
+  }
+},
+{
+  "id": 293273,
+  "name": "‘Uzeir",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.329842,
+      "lat": 32.792122
+  }
+},
+{
+  "id": 293279,
+  "name": "Urim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.523281,
+      "lat": 31.304331
+  }
+},
+{
+  "id": 293286,
+  "name": "Umm el Faḥm",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.153488,
+      "lat": 32.51725
+  }
+},
+{
+  "id": 293304,
+  "name": "Tirat Ẕevi",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.524441,
+      "lat": 32.421669
+  }
+},
+{
+  "id": 293308,
+  "name": "Tirat Karmel",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.971939,
+      "lat": 32.761669
+  }
+},
+{
+  "id": 293310,
+  "name": "Timrat",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.226669,
+      "lat": 32.703609
+  }
+},
+{
+  "id": 293322,
+  "name": "Tiberias",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.531239,
+      "lat": 32.792198
+  }
+},
+{
+  "id": 293327,
+  "name": "Tequma",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.578159,
+      "lat": 31.449841
+  }
+},
+{
+  "id": 293354,
+  "name": "Tel Mond",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.91737,
+      "lat": 32.24995
+  }
+},
+{
+  "id": 293361,
+  "name": "Tel Litwinsky",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.848061,
+      "lat": 32.05389
+  }
+},
+{
+  "id": 293371,
+  "name": "Tel H̱anan",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.03167,
+      "lat": 32.774719
+  }
+},
+{
+  "id": 293396,
+  "name": "Tel Aviv District",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.799999,
+      "lat": 32.083328
+  }
+},
+{
+  "id": 293397,
+  "name": "Tel Aviv",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.780571,
+      "lat": 32.080879
+  }
+},
+{
+  "id": 293420,
+  "name": "maalot Tarshīhā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.26667,
+      "lat": 33.01667
+  }
+},
+{
+  "id": 293426,
+  "name": "Tamra",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.20472,
+      "lat": 32.84861
+  }
+},
+{
+  "id": 293436,
+  "name": "Talme Menashe",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.849998,
+      "lat": 31.950001
+  }
+},
+{
+  "id": 293449,
+  "name": "Sūlam",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.33408,
+      "lat": 32.60606
+  }
+},
+{
+  "id": 293522,
+  "name": "Shelomi",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.14608,
+      "lat": 33.074718
+  }
+},
+{
+  "id": 293619,
+  "name": "Sederot",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.596931,
+      "lat": 31.525
+  }
+},
+{
+  "id": 293633,
+  "name": "Savyon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.877781,
+      "lat": 32.053059
+  }
+},
+{
+  "id": 293655,
+  "name": "Sakhnīn",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.293331,
+      "lat": 32.862221
+  }
+},
+{
+  "id": 293657,
+  "name": "Sājūr",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.341358,
+      "lat": 32.942661
+  }
+},
+{
+  "id": 293682,
+  "name": "Ruẖama",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.700001,
+      "lat": 31.5
+  }
+},
+{
+  "id": 293688,
+  "name": "Rosh Pinna",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.54258,
+      "lat": 32.968941
+  }
+},
+{
+  "id": 293690,
+  "name": "Rosh Ha‘Ayin",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.945831,
+      "lat": 32.09417
+  }
+},
+{
+  "id": 293703,
+  "name": "Rishon LeẔiyyon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.80444,
+      "lat": 31.96417
+  }
+},
+{
+  "id": 293721,
+  "name": "Rekhasim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.099998,
+      "lat": 32.75
+  }
+},
+{
+  "id": 293725,
+  "name": "Reẖovot",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.818611,
+      "lat": 31.89694
+  }
+},
+{
+  "id": 293768,
+  "name": "Ramla",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.86694,
+      "lat": 31.92528
+  }
+},
+{
+  "id": 293773,
+  "name": "Ramat Yishay",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.179722,
+      "lat": 32.700562
+  }
+},
+{
+  "id": 293783,
+  "name": "Ramat HaSharon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.841671,
+      "lat": 32.147221
+  }
+},
+{
+  "id": 293788,
+  "name": "Ramat Gan",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.814171,
+      "lat": 32.080559
+  }
+},
+{
+  "id": 293792,
+  "name": "Ramat Aviv",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.795559,
+      "lat": 32.110561
+  }
+},
+{
+  "id": 293822,
+  "name": "Qiryat Yam",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.070278,
+      "lat": 32.85083
+  }
+},
+{
+  "id": 293823,
+  "name": "Qiryat Tiv‘on",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.12722,
+      "lat": 32.723888
+  }
+},
+{
+  "id": 293824,
+  "name": "Qiryat Shemu’el",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.064442,
+      "lat": 32.838058
+  }
+},
+{
+  "id": 293825,
+  "name": "Qiryat Shemona",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.572121,
+      "lat": 33.207329
+  }
+},
+{
+  "id": 293831,
+  "name": "Qiryat Moẕqin",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.075279,
+      "lat": 32.836391
+  }
+},
+{
+  "id": 293836,
+  "name": "Qiryat H̱ayyim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.05611,
+      "lat": 32.83194
+  }
+},
+{
+  "id": 293842,
+  "name": "Kiryat Gat",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.764221,
+      "lat": 31.60998
+  }
+},
+{
+  "id": 293844,
+  "name": "Qiryat Bialik",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.085831,
+      "lat": 32.827499
+  }
+},
+{
+  "id": 293845,
+  "name": "Qiryat Ata",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.106392,
+      "lat": 32.80056
+  }
+},
+{
+  "id": 293857,
+  "name": "Qevuẕat Yavne",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.720798,
+      "lat": 31.81555
+  }
+},
+{
+  "id": 293896,
+  "name": "Qalansuwa",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.98106,
+      "lat": 32.284931
+  }
+},
+{
+  "id": 293918,
+  "name": "Petaẖ Tiqwa",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.872219,
+      "lat": 32.088612
+  }
+},
+{
+  "id": 293942,
+  "name": "Pardesiyya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.909111,
+      "lat": 32.305771
+  }
+},
+{
+  "id": 293943,
+  "name": "Pardés H̱anna Karkur",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.97781,
+      "lat": 32.474079
+  }
+},
+{
+  "id": 293962,
+  "name": "Or Yehuda",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.845829,
+      "lat": 32.031109
+  }
+},
+{
+  "id": 293963,
+  "name": "Orot",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.735168,
+      "lat": 31.74103
+  }
+},
+{
+  "id": 293969,
+  "name": "Or Akiva",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.920872,
+      "lat": 32.506401
+  }
+},
+{
+  "id": 293977,
+  "name": "Qiryat Ono",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.866669,
+      "lat": 32.022221
+  }
+},
+{
+  "id": 293992,
+  "name": "Ofaqim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.620251,
+      "lat": 31.3141
+  }
+},
+{
+  "id": 294003,
+  "name": "Nordiyya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.896172,
+      "lat": 32.314701
+  }
+},
+{
+  "id": 294027,
+  "name": "Nirim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.395069,
+      "lat": 31.33559
+  }
+},
+{
+  "id": 294035,
+  "name": "Nir‘am",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.580059,
+      "lat": 31.51959
+  }
+},
+{
+  "id": 294042,
+  "name": "Newé Ẕedeq",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.76667,
+      "lat": 32.066669
+  }
+},
+{
+  "id": 294057,
+  "name": "Neve Efrayim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.870831,
+      "lat": 32.029999
+  }
+},
+{
+  "id": 294063,
+  "name": "Nevatim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.88208,
+      "lat": 31.224159
+  }
+},
+{
+  "id": 294068,
+  "name": "Netivot",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.588581,
+      "lat": 31.42215
+  }
+},
+{
+  "id": 294071,
+  "name": "Netanya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.859921,
+      "lat": 32.33292
+  }
+},
+{
+  "id": 294074,
+  "name": "Ness Ziona",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.798679,
+      "lat": 31.929331
+  }
+},
+{
+  "id": 294078,
+  "name": "Nesher",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.049999,
+      "lat": 32.764999
+  }
+},
+{
+  "id": 294089,
+  "name": "Nein",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.34885,
+      "lat": 32.63063
+  }
+},
+{
+  "id": 294093,
+  "name": "Neẖalim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.913891,
+      "lat": 32.061939
+  }
+},
+{
+  "id": 294097,
+  "name": "Naẕerat ‘Illit",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.32468,
+      "lat": 32.70816
+  }
+},
+{
+  "id": 294098,
+  "name": "Nazareth",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.295559,
+      "lat": 32.703609
+  }
+},
+{
+  "id": 294114,
+  "name": "Naḥf",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.316669,
+      "lat": 32.933331
+  }
+},
+{
+  "id": 294117,
+  "name": "Nahariyya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.09409,
+      "lat": 33.005859
+  }
+},
+{
+  "id": 294166,
+  "name": "Mitzpe Ramon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.801109,
+      "lat": 30.609444
+  }
+},
+{
+  "id": 294184,
+  "name": "Mishmar HaNegev",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.7187,
+      "lat": 31.364161
+  }
+},
+{
+  "id": 294205,
+  "name": "Mi‘ilyā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.25658,
+      "lat": 33.027809
+  }
+},
+{
+  "id": 294210,
+  "name": "Migdal Ha‘Emeq",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.240559,
+      "lat": 32.671391
+  }
+},
+{
+  "id": 294244,
+  "name": "Mevo Betar",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.106689,
+      "lat": 31.721769
+  }
+},
+{
+  "id": 294247,
+  "name": "Metulla",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.579498,
+      "lat": 33.279179
+  }
+},
+{
+  "id": 294303,
+  "name": "Mazkeret Batya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.838612,
+      "lat": 31.853889
+  }
+},
+{
+  "id": 294377,
+  "name": "Maẖseya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.007038,
+      "lat": 31.748541
+  }
+},
+{
+  "id": 294384,
+  "name": "Maẖanayim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.570599,
+      "lat": 32.988979
+  }
+},
+{
+  "id": 294387,
+  "name": "Maghār",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.407028,
+      "lat": 32.889839
+  }
+},
+{
+  "id": 294410,
+  "name": "Ma‘agan Mikha’el",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.916382,
+      "lat": 32.555489
+  }
+},
+{
+  "id": 294421,
+  "name": "Lod",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.895279,
+      "lat": 31.951389
+  }
+},
+{
+  "id": 294434,
+  "name": "Lakhish",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.843128,
+      "lat": 31.561291
+  }
+},
+{
+  "id": 294492,
+  "name": "Kefar Yona",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.93507,
+      "lat": 32.316689
+  }
+},
+{
+  "id": 294498,
+  "name": "Kefar Vitqin",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.877369,
+      "lat": 32.38126
+  }
+},
+{
+  "id": 294502,
+  "name": "Kefar Tavor",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.421181,
+      "lat": 32.686562
+  }
+},
+{
+  "id": 294508,
+  "name": "Kefar Shemaryahu",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.821941,
+      "lat": 32.185558
+  }
+},
+{
+  "id": 294514,
+  "name": "Kfar Saba",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.90694,
+      "lat": 32.174999
+  }
+},
+{
+  "id": 294545,
+  "name": "Kefar H̱abad",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.851109,
+      "lat": 31.98667
+  }
+},
+{
+  "id": 294568,
+  "name": "Kefar Aharon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.792782,
+      "lat": 31.91111
+  }
+},
+{
+  "id": 294571,
+  "name": "Kaukab Abū el Hījā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.25,
+      "lat": 32.833328
+  }
+},
+{
+  "id": 294577,
+  "name": "Karmi’el",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.304169,
+      "lat": 32.917221
+  }
+},
+{
+  "id": 294600,
+  "name": "Kfar Yasif",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.1623,
+      "lat": 32.95451
+  }
+},
+{
+  "id": 294604,
+  "name": "Kafr Qāsim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.973888,
+      "lat": 32.11417
+  }
+},
+{
+  "id": 294607,
+  "name": "Kafr Miṣr",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.421471,
+      "lat": 32.64521
+  }
+},
+{
+  "id": 294608,
+  "name": "Kafr Mandā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.260281,
+      "lat": 32.80722
+  }
+},
+{
+  "id": 294610,
+  "name": "Kafr Kannā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.342419,
+      "lat": 32.746601
+  }
+},
+{
+  "id": 294611,
+  "name": "Kafr Kammā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.441219,
+      "lat": 32.721291
+  }
+},
+{
+  "id": 294615,
+  "name": "Kābūl",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.213058,
+      "lat": 32.866669
+  }
+},
+{
+  "id": 294622,
+  "name": "Judeida Makr",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.154999,
+      "lat": 32.92556
+  }
+},
+{
+  "id": 294627,
+  "name": "Jīsh",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.446941,
+      "lat": 33.02216
+  }
+},
+{
+  "id": 294634,
+  "name": "Jaljūlya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.952782,
+      "lat": 32.15583
+  }
+},
+{
+  "id": 294640,
+  "name": "State of Israel",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.75,
+      "lat": 31.5
+  }
+},
+{
+  "id": 294658,
+  "name": "Iksāl",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.32365,
+      "lat": 32.681641
+  }
+},
+{
+  "id": 294661,
+  "name": "Ibṭīn",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.10083,
+      "lat": 32.761669
+  }
+},
+{
+  "id": 294666,
+  "name": "Ḥurfeish",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.348351,
+      "lat": 33.017109
+  }
+},
+{
+  "id": 294751,
+  "name": "H̱olon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.772221,
+      "lat": 32.011391
+  }
+},
+{
+  "id": 294760,
+  "name": "Hod HaSharon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.888329,
+      "lat": 32.150829
+  }
+},
+{
+  "id": 294777,
+  "name": "Herẕliyya B",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.816669,
+      "lat": 32.166672
+  }
+},
+{
+  "id": 294778,
+  "name": "Herzliya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.83667,
+      "lat": 32.165829
+  }
+},
+{
+  "id": 294800,
+  "name": "Haifa",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.0,
+      "lat": 32.583328
+  }
+},
+{
+  "id": 294801,
+  "name": "Haifa",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.98917,
+      "lat": 32.815559
+  }
+},
+{
+  "id": 294817,
+  "name": "H̱aẕerim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.713902,
+      "lat": 31.24057
+  }
+},
+{
+  "id": 294824,
+  "name": "Northern District",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.333328,
+      "lat": 32.833328
+  }
+},
+{
+  "id": 294857,
+  "name": "Hartuv",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.999699,
+      "lat": 31.76428
+  }
+},
+{
+  "id": 294904,
+  "name": "Central District",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.916672,
+      "lat": 32.083328
+  }
+},
+{
+  "id": 294946,
+  "name": "Hadera",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.919559,
+      "lat": 32.436451
+  }
+},
+{
+  "id": 294952,
+  "name": "Southern District",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.833332,
+      "lat": 30.666668
+  }
+},
+{
+  "id": 294981,
+  "name": "Giv'at Shmuel",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.846668,
+      "lat": 32.075279
+  }
+},
+{
+  "id": 294990,
+  "name": "Giv‘at Mordekhay",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.200001,
+      "lat": 31.76667
+  }
+},
+{
+  "id": 294999,
+  "name": "Givatayim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.811668,
+      "lat": 32.069721
+  }
+},
+{
+  "id": 295064,
+  "name": "Gedera",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.77998,
+      "lat": 31.81456
+  }
+},
+{
+  "id": 295080,
+  "name": "Gan Yavne",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.706589,
+      "lat": 31.787371
+  }
+},
+{
+  "id": 295089,
+  "name": "Ganei Tikva",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.874722,
+      "lat": 32.06028
+  }
+},
+{
+  "id": 295095,
+  "name": "Gal’on",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.84758,
+      "lat": 31.633659
+  }
+},
+{
+  "id": 295104,
+  "name": "Pasuta",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.308941,
+      "lat": 33.04895
+  }
+},
+{
+  "id": 295122,
+  "name": "Even Yehuda",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.887589,
+      "lat": 32.269588
+  }
+},
+{
+  "id": 295127,
+  "name": "Tirah",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.95023,
+      "lat": 32.2341
+  }
+},
+{
+  "id": 295130,
+  "name": "Eṭ Ṭaiyiba",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.00893,
+      "lat": 32.266159
+  }
+},
+{
+  "id": 295157,
+  "name": "Esh Sheikh Dannūn",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.1479,
+      "lat": 32.99231
+  }
+},
+{
+  "id": 295174,
+  "name": "Er Reina",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.3125,
+      "lat": 32.72361
+  }
+},
+{
+  "id": 295179,
+  "name": "‘En Zetim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.48513,
+      "lat": 32.994781
+  }
+},
+{
+  "id": 295189,
+  "name": "‘En Netafim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.882801,
+      "lat": 29.584299
+  }
+},
+{
+  "id": 295224,
+  "name": "‘En Boqeq",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.363892,
+      "lat": 31.201389
+  }
+},
+{
+  "id": 295232,
+  "name": "Elyakhin",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.924332,
+      "lat": 32.407928
+  }
+},
+{
+  "id": 295249,
+  "name": "El Mazra‘a",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.09837,
+      "lat": 32.983379
+  }
+},
+{
+  "id": 295267,
+  "name": "El Huzaiyil",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.75,
+      "lat": 31.41667
+  }
+},
+{
+  "id": 295269,
+  "name": "El Fureidīs",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.950001,
+      "lat": 32.599998
+  }
+},
+{
+  "id": 295277,
+  "name": "Eilat",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.948212,
+      "lat": 29.55805
+  }
+},
+{
+  "id": 295291,
+  "name": "‘Eilabun",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.400398,
+      "lat": 32.83622
+  }
+},
+{
+  "id": 295328,
+  "name": "Dimona",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.033329,
+      "lat": 31.066669
+  }
+},
+{
+  "id": 295339,
+  "name": "Deir Ḥannā",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.363651,
+      "lat": 32.861961
+  }
+},
+{
+  "id": 295365,
+  "name": "Daliyat al Karmel",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.040829,
+      "lat": 32.693611
+  }
+},
+{
+  "id": 295370,
+  "name": "Dabbūrīya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.371231,
+      "lat": 32.692558
+  }
+},
+{
+  "id": 295379,
+  "name": "Buqei‘a",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.33345,
+      "lat": 32.977459
+  }
+},
+{
+  "id": 295380,
+  "name": "Bu‘eina",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.364861,
+      "lat": 32.806358
+  }
+},
+{
+  "id": 295404,
+  "name": "Bīr el Maksūr",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.23333,
+      "lat": 32.75
+  }
+},
+{
+  "id": 295410,
+  "name": "Binyamina",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.944988,
+      "lat": 32.523201
+  }
+},
+{
+  "id": 295424,
+  "name": "Bet Yiẕẖaq",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.888779,
+      "lat": 32.327511
+  }
+},
+{
+  "id": 295432,
+  "name": "Bet Shemesh",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.98877,
+      "lat": 31.74959
+  }
+},
+{
+  "id": 295435,
+  "name": "Bet She’an",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.5,
+      "lat": 32.5
+  }
+},
+{
+  "id": 295439,
+  "name": "Bet Qama",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.761848,
+      "lat": 31.44553
+  }
+},
+{
+  "id": 295471,
+  "name": "Bet ‘Ezra",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.655941,
+      "lat": 31.736059
+  }
+},
+{
+  "id": 295475,
+  "name": "Bet Dagan",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.83028,
+      "lat": 32.001389
+  }
+},
+{
+  "id": 295514,
+  "name": "Bnei Brak",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.839722,
+      "lat": 32.090279
+  }
+},
+{
+  "id": 295515,
+  "name": "Bnei Ayish",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.75,
+      "lat": 31.783331
+  }
+},
+{
+  "id": 295523,
+  "name": "Beit Jann",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.381519,
+      "lat": 32.964642
+  }
+},
+{
+  "id": 295530,
+  "name": "Beersheba",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.791302,
+      "lat": 31.25181
+  }
+},
+{
+  "id": 295548,
+  "name": "Bat Yam",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.750278,
+      "lat": 32.02306
+  }
+},
+{
+  "id": 295553,
+  "name": "Basmat Ṭab‘ūn",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.145828,
+      "lat": 32.73444
+  }
+},
+{
+  "id": 295571,
+  "name": "Bāqa el Gharbīya",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.043121,
+      "lat": 32.41806
+  }
+},
+{
+  "id": 295582,
+  "name": "‘Azriqam",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.700001,
+      "lat": 31.75
+  }
+},
+{
+  "id": 295584,
+  "name": "Azor",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.810558,
+      "lat": 32.019169
+  }
+},
+{
+  "id": 295613,
+  "name": "Atlit",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.933331,
+      "lat": 32.683331
+  }
+},
+{
+  "id": 295620,
+  "name": "Ashkelon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.571491,
+      "lat": 31.66926
+  }
+},
+{
+  "id": 295629,
+  "name": "Ashdod",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.650002,
+      "lat": 31.816669
+  }
+},
+{
+  "id": 295714,
+  "name": "Allonim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.141941,
+      "lat": 32.720001
+  }
+},
+{
+  "id": 295721,
+  "name": "Acre",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.072781,
+      "lat": 32.923611
+  }
+},
+{
+  "id": 295739,
+  "name": "‘Afula ‘Illit",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.325218,
+      "lat": 32.633228
+  }
+},
+{
+  "id": 295740,
+  "name": "Afula",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.291672,
+      "lat": 32.611111
+  }
+},
+{
+  "id": 295772,
+  "name": "Abū Ghaush",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.109299,
+      "lat": 31.80592
+  }
+},
+{
+  "id": 386042,
+  "name": "Shibli",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.392521,
+      "lat": 32.694641
+  }
+},
+{
+  "id": 386194,
+  "name": "Rumat Heib",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.306938,
+      "lat": 32.779171
+  }
+},
+{
+  "id": 386253,
+  "name": "Sallama",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.369308,
+      "lat": 32.894428
+  }
+},
+{
+  "id": 386445,
+  "name": "Kefar Weradim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.277931,
+      "lat": 32.993851
+  }
+},
+{
+  "id": 4232512,
+  "name": "Adams County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.183472,
+      "lat": 39.966709
+  }
+},
+{
+  "id": 4232564,
+  "name": "Albers",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.612312,
+      "lat": 38.543381
+  }
+},
+{
+  "id": 4232568,
+  "name": "Albion",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.056152,
+      "lat": 38.377548
+  }
+},
+{
+  "id": 4232592,
+  "name": "Alexander County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.183411,
+      "lat": 37.18338
+  }
+},
+{
+  "id": 4232652,
+  "name": "Alorton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.12011,
+      "lat": 38.589771
+  }
+},
+{
+  "id": 4232662,
+  "name": "Altamont",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.748108,
+      "lat": 39.061989
+  }
+},
+{
+  "id": 4232679,
+  "name": "Alton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.18428,
+      "lat": 38.890598
+  }
+},
+{
+  "id": 4232776,
+  "name": "Anna",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.247032,
+      "lat": 37.460331
+  }
+},
+{
+  "id": 4232862,
+  "name": "Arcola",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.306442,
+      "lat": 39.684761
+  }
+},
+{
+  "id": 4232911,
+  "name": "Arthur",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.472282,
+      "lat": 39.71476
+  }
+},
+{
+  "id": 4232953,
+  "name": "Ashland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.007889,
+      "lat": 39.887829
+  }
+},
+{
+  "id": 4232987,
+  "name": "Assumption",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.048973,
+      "lat": 39.520321
+  }
+},
+{
+  "id": 4232997,
+  "name": "Athens",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.723991,
+      "lat": 39.96088
+  }
+},
+{
+  "id": 4233022,
+  "name": "Atwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.46228,
+      "lat": 39.79948
+  }
+},
+{
+  "id": 4233029,
+  "name": "Auburn",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.74649,
+      "lat": 39.591721
+  }
+},
+{
+  "id": 4233090,
+  "name": "Aviston",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.60759,
+      "lat": 38.60672
+  }
+},
+{
+  "id": 4233255,
+  "name": "Barry",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.039017,
+      "lat": 39.69421
+  }
+},
+{
+  "id": 4233430,
+  "name": "Beckemeyer",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.435921,
+      "lat": 38.605598
+  }
+},
+{
+  "id": 4233552,
+  "name": "Bement",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.572006,
+      "lat": 39.921982
+  }
+},
+{
+  "id": 4233572,
+  "name": "Benld",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.803978,
+      "lat": 39.092819
+  }
+},
+{
+  "id": 4233586,
+  "name": "Benton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.920067,
+      "lat": 37.996719
+  }
+},
+{
+  "id": 4233662,
+  "name": "Bethalto",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.040657,
+      "lat": 38.90921
+  }
+},
+{
+  "id": 4233670,
+  "name": "Bethany",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.738129,
+      "lat": 39.645592
+  }
+},
+{
+  "id": 4233813,
+  "name": "Belleville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.983994,
+      "lat": 38.52005
+  }
+},
+{
+  "id": 4234081,
+  "name": "Blue Mound",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.123138,
+      "lat": 39.701149
+  }
+},
+{
+  "id": 4234184,
+  "name": "Bond County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.433411,
+      "lat": 38.883381
+  }
+},
+{
+  "id": 4234362,
+  "name": "Breese",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.527031,
+      "lat": 38.6106
+  }
+},
+{
+  "id": 4234416,
+  "name": "Bridgeport",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.760033,
+      "lat": 38.705879
+  }
+},
+{
+  "id": 4234436,
+  "name": "Brighton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.140663,
+      "lat": 39.039768
+  }
+},
+{
+  "id": 4234576,
+  "name": "Brownsport (historical)",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.042526,
+      "lat": 38.05616
+  }
+},
+{
+  "id": 4234810,
+  "name": "Bunker Hill",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.951767,
+      "lat": 39.04282
+  }
+},
+{
+  "id": 4234892,
+  "name": "Burton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.249031,
+      "lat": 39.90477
+  }
+},
+{
+  "id": 4234969,
+  "name": "Cahokia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.190109,
+      "lat": 38.570881
+  }
+},
+{
+  "id": 4234985,
+  "name": "Cairo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.17646,
+      "lat": 37.005329
+  }
+},
+{
+  "id": 4235075,
+  "name": "Cambria",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.119247,
+      "lat": 37.781441
+  }
+},
+{
+  "id": 4235193,
+  "name": "Carbondale",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.216751,
+      "lat": 37.727268
+  }
+},
+{
+  "id": 4235211,
+  "name": "Carlinville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.881767,
+      "lat": 39.27977
+  }
+},
+{
+  "id": 4235229,
+  "name": "Carlyle",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.372581,
+      "lat": 38.610329
+  }
+},
+{
+  "id": 4235246,
+  "name": "Carmi",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.158653,
+      "lat": 38.090881
+  }
+},
+{
+  "id": 4235274,
+  "name": "Carrier Mills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.632828,
+      "lat": 37.684219
+  }
+},
+{
+  "id": 4235288,
+  "name": "Carrollton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.407059,
+      "lat": 39.302269
+  }
+},
+{
+  "id": 4235311,
+  "name": "Carterville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.077301,
+      "lat": 37.760052
+  }
+},
+{
+  "id": 4235334,
+  "name": "Casey",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.992531,
+      "lat": 39.299198
+  }
+},
+{
+  "id": 4235355,
+  "name": "Caseyville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.025658,
+      "lat": 38.636719
+  }
+},
+{
+  "id": 4235535,
+  "name": "Central City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.127007,
+      "lat": 38.548939
+  }
+},
+{
+  "id": 4235587,
+  "name": "Centralia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.1334,
+      "lat": 38.525051
+  }
+},
+{
+  "id": 4235600,
+  "name": "Centreville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.125107,
+      "lat": 38.583382
+  }
+},
+{
+  "id": 4235607,
+  "name": "Cerro Gordo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.728127,
+      "lat": 39.890591
+  }
+},
+{
+  "id": 4235668,
+  "name": "Charleston",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.176147,
+      "lat": 39.496151
+  }
+},
+{
+  "id": 4235683,
+  "name": "Chatham",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.704536,
+      "lat": 39.676159
+  }
+},
+{
+  "id": 4235724,
+  "name": "Chester",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.822052,
+      "lat": 37.913658
+  }
+},
+{
+  "id": 4235766,
+  "name": "Chrisman",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.673637,
+      "lat": 39.80365
+  }
+},
+{
+  "id": 4235804,
+  "name": "Christopher",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.053413,
+      "lat": 37.972549
+  }
+},
+{
+  "id": 4236063,
+  "name": "Clinton County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.400078,
+      "lat": 38.600052
+  }
+},
+{
+  "id": 4236102,
+  "name": "Cobden",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.253418,
+      "lat": 37.531441
+  }
+},
+{
+  "id": 4236157,
+  "name": "Coles County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.233383,
+      "lat": 39.55003
+  }
+},
+{
+  "id": 4236191,
+  "name": "Collinsville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.98455,
+      "lat": 38.67033
+  }
+},
+{
+  "id": 4236206,
+  "name": "Columbia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.201218,
+      "lat": 38.443661
+  }
+},
+{
+  "id": 4236555,
+  "name": "Crainville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.067848,
+      "lat": 37.751991
+  }
+},
+{
+  "id": 4236738,
+  "name": "Cumberland County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.250603,
+      "lat": 39.266701
+  }
+},
+{
+  "id": 4236879,
+  "name": "De Soto",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.227859,
+      "lat": 37.817551
+  }
+},
+{
+  "id": 4236895,
+  "name": "Decatur",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.954803,
+      "lat": 39.840309
+  }
+},
+{
+  "id": 4237076,
+  "name": "Divernon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.657318,
+      "lat": 39.565609
+  }
+},
+{
+  "id": 4237204,
+  "name": "Douglas County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.216713,
+      "lat": 39.766701
+  }
+},
+{
+  "id": 4237312,
+  "name": "Du Quoin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.236191,
+      "lat": 38.01144
+  }
+},
+{
+  "id": 4237383,
+  "name": "Dupo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.210388,
+      "lat": 38.516159
+  }
+},
+{
+  "id": 4237473,
+  "name": "East Alton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.111221,
+      "lat": 38.880329
+  }
+},
+{
+  "id": 4237579,
+  "name": "East Saint Louis",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.15094,
+      "lat": 38.6245
+  }
+},
+{
+  "id": 4237669,
+  "name": "Eden Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.023956,
+      "lat": 37.755051
+  }
+},
+{
+  "id": 4237687,
+  "name": "Edinburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.389526,
+      "lat": 39.657269
+  }
+},
+{
+  "id": 4237717,
+  "name": "Edwardsville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.953163,
+      "lat": 38.81144
+  }
+},
+{
+  "id": 4237727,
+  "name": "Effingham",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.543381,
+      "lat": 39.120041
+  }
+},
+{
+  "id": 4237767,
+  "name": "Eldorado",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.438103,
+      "lat": 37.81366
+  }
+},
+{
+  "id": 4237790,
+  "name": "Elizabethtown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.305038,
+      "lat": 37.445881
+  }
+},
+{
+  "id": 4237953,
+  "name": "Energy",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.026459,
+      "lat": 37.773941
+  }
+},
+{
+  "id": 4238081,
+  "name": "Fairfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.359772,
+      "lat": 38.378941
+  }
+},
+{
+  "id": 4238104,
+  "name": "Fairmont City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.093163,
+      "lat": 38.649769
+  }
+},
+{
+  "id": 4238132,
+  "name": "Fairview Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.990379,
+      "lat": 38.58894
+  }
+},
+{
+  "id": 4238193,
+  "name": "Falling Spring",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.186783,
+      "lat": 38.532551
+  }
+},
+{
+  "id": 4238245,
+  "name": "Fayette County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.033401,
+      "lat": 39.016708
+  }
+},
+{
+  "id": 4238777,
+  "name": "Flora",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.485603,
+      "lat": 38.668941
+  }
+},
+{
+  "id": 4238858,
+  "name": "Forsyth",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.951187,
+      "lat": 39.932541
+  }
+},
+{
+  "id": 4239058,
+  "name": "Freeburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.913712,
+      "lat": 38.427551
+  }
+},
+{
+  "id": 4239247,
+  "name": "Gard",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.960098,
+      "lat": 38.86227
+  }
+},
+{
+  "id": 4239337,
+  "name": "Georgetown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.635849,
+      "lat": 39.975311
+  }
+},
+{
+  "id": 4239368,
+  "name": "Germantown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.538422,
+      "lat": 38.553661
+  }
+},
+{
+  "id": 4239423,
+  "name": "Gillespie",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.819542,
+      "lat": 39.129768
+  }
+},
+{
+  "id": 4239465,
+  "name": "Glen Carbon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.983162,
+      "lat": 38.748379
+  }
+},
+{
+  "id": 4239483,
+  "name": "Girard",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.78093,
+      "lat": 39.446442
+  }
+},
+{
+  "id": 4239509,
+  "name": "Godfrey",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.186783,
+      "lat": 38.955601
+  }
+},
+{
+  "id": 4239519,
+  "name": "Golconda",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.486427,
+      "lat": 37.367271
+  }
+},
+{
+  "id": 4239597,
+  "name": "Goreville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.97229,
+      "lat": 37.554501
+  }
+},
+{
+  "id": 4239702,
+  "name": "Grandview",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.618713,
+      "lat": 39.816441
+  }
+},
+{
+  "id": 4239714,
+  "name": "Granite City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.14872,
+      "lat": 38.701439
+  }
+},
+{
+  "id": 4239773,
+  "name": "Grayville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.993637,
+      "lat": 38.257549
+  }
+},
+{
+  "id": 4239836,
+  "name": "Greene County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.400124,
+      "lat": 39.350052
+  }
+},
+{
+  "id": 4239840,
+  "name": "Greenfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.212608,
+      "lat": 39.343658
+  }
+},
+{
+  "id": 4239858,
+  "name": "Greenup",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.163368,
+      "lat": 39.247822
+  }
+},
+{
+  "id": 4239867,
+  "name": "Greenville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.413139,
+      "lat": 38.892269
+  }
+},
+{
+  "id": 4239932,
+  "name": "Griggsville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.724571,
+      "lat": 39.708939
+  }
+},
+{
+  "id": 4240209,
+  "name": "Hardin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.617897,
+      "lat": 39.156712
+  }
+},
+{
+  "id": 4240284,
+  "name": "Harrisburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.540611,
+      "lat": 37.73838
+  }
+},
+{
+  "id": 4240306,
+  "name": "Harristown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.083969,
+      "lat": 39.853931
+  }
+},
+{
+  "id": 4240319,
+  "name": "Hartford",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.09594,
+      "lat": 38.833382
+  }
+},
+{
+  "id": 4240540,
+  "name": "Herrin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.027573,
+      "lat": 37.803108
+  }
+},
+{
+  "id": 4240679,
+  "name": "Highland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.671204,
+      "lat": 38.739491
+  }
+},
+{
+  "id": 4240782,
+  "name": "Hillsboro",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.493698,
+      "lat": 39.16116
+  }
+},
+{
+  "id": 4240857,
+  "name": "Holiday Shores",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.940659,
+      "lat": 38.921989
+  }
+},
+{
+  "id": 4241354,
+  "name": "Ina",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.903961,
+      "lat": 38.151161
+  }
+},
+{
+  "id": 4241687,
+  "name": "Jackson County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.35009,
+      "lat": 37.76672
+  }
+},
+{
+  "id": 4241691,
+  "name": "Jackson",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.650299,
+      "lat": 38.721161
+  }
+},
+{
+  "id": 4241704,
+  "name": "Jacksonville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.229012,
+      "lat": 39.73394
+  }
+},
+{
+  "id": 4241773,
+  "name": "Jefferson County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.933403,
+      "lat": 38.300049
+  }
+},
+{
+  "id": 4241810,
+  "name": "Jerome",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.680656,
+      "lat": 39.767551
+  }
+},
+{
+  "id": 4241818,
+  "name": "Jersey County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.350113,
+      "lat": 39.066711
+  }
+},
+{
+  "id": 4241822,
+  "name": "Jerseyville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.328453,
+      "lat": 39.120049
+  }
+},
+{
+  "id": 4241842,
+  "name": "Jewett",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.245872,
+      "lat": 39.207821
+  }
+},
+{
+  "id": 4241934,
+  "name": "Johnston City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.927567,
+      "lat": 37.82061
+  }
+},
+{
+  "id": 4241992,
+  "name": "Jonesboro",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.268143,
+      "lat": 37.451721
+  }
+},
+{
+  "id": 4242242,
+  "name": "Kincaid",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.414543,
+      "lat": 39.588661
+  }
+},
+{
+  "id": 4242361,
+  "name": "Klondike",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.231743,
+      "lat": 37.062832
+  }
+},
+{
+  "id": 4242425,
+  "name": "La Clede",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.715332,
+      "lat": 38.879768
+  }
+},
+{
+  "id": 4242758,
+  "name": "Lawrence County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.71669,
+      "lat": 38.70005
+  }
+},
+{
+  "id": 4242769,
+  "name": "Lawrenceville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.681686,
+      "lat": 38.72921
+  }
+},
+{
+  "id": 4242790,
+  "name": "Lebanon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.80732,
+      "lat": 38.603939
+  }
+},
+{
+  "id": 4242842,
+  "name": "Leland Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.679268,
+      "lat": 39.777
+  }
+},
+{
+  "id": 4243131,
+  "name": "Litchfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.654259,
+      "lat": 39.175331
+  }
+},
+{
+  "id": 4243455,
+  "name": "Long Creek",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.847572,
+      "lat": 39.811981
+  }
+},
+{
+  "id": 4243551,
+  "name": "Louisville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.502548,
+      "lat": 38.77227
+  }
+},
+{
+  "id": 4243574,
+  "name": "Lovington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.632561,
+      "lat": 39.715591
+  }
+},
+{
+  "id": 4243612,
+  "name": "Loxa",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.267273,
+      "lat": 39.497261
+  }
+},
+{
+  "id": 4243717,
+  "name": "Macon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.997017,
+      "lat": 39.712818
+  }
+},
+{
+  "id": 4243719,
+  "name": "Macon County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.966751,
+      "lat": 39.866699
+  }
+},
+{
+  "id": 4243740,
+  "name": "Madison",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.157051,
+      "lat": 38.682549
+  }
+},
+{
+  "id": 4243743,
+  "name": "Madison County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.900101,
+      "lat": 38.833382
+  }
+},
+{
+  "id": 4243899,
+  "name": "Marion",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.933128,
+      "lat": 37.73061
+  }
+},
+{
+  "id": 4243907,
+  "name": "Marion County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.933388,
+      "lat": 38.650051
+  }
+},
+{
+  "id": 4243918,
+  "name": "Marissa",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.750099,
+      "lat": 38.25005
+  }
+},
+{
+  "id": 4243951,
+  "name": "Marshall",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.693642,
+      "lat": 39.39143
+  }
+},
+{
+  "id": 4244005,
+  "name": "Martinsville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.881981,
+      "lat": 39.33559
+  }
+},
+{
+  "id": 4244026,
+  "name": "Maryville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.955933,
+      "lat": 38.72366
+  }
+},
+{
+  "id": 4244031,
+  "name": "Mascoutah",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.793152,
+      "lat": 38.49033
+  }
+},
+{
+  "id": 4244065,
+  "name": "Massac County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.733391,
+      "lat": 37.233391
+  }
+},
+{
+  "id": 4244099,
+  "name": "Mattoon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.372833,
+      "lat": 39.483089
+  }
+},
+{
+  "id": 4244307,
+  "name": "McLeansboro",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.535606,
+      "lat": 38.09338
+  }
+},
+{
+  "id": 4244418,
+  "name": "Meredosia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.55957,
+      "lat": 39.831161
+  }
+},
+{
+  "id": 4244462,
+  "name": "Metropolis",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.732002,
+      "lat": 37.151169
+  }
+},
+{
+  "id": 4244637,
+  "name": "Millstadt",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.091782,
+      "lat": 38.461441
+  }
+},
+{
+  "id": 4244696,
+  "name": "Mitchell",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.085381,
+      "lat": 38.76199
+  }
+},
+{
+  "id": 4244840,
+  "name": "Morgan County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.216789,
+      "lat": 39.716709
+  }
+},
+{
+  "id": 4244880,
+  "name": "Morrisonville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.45565,
+      "lat": 39.420052
+  }
+},
+{
+  "id": 4244928,
+  "name": "Mound City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.162567,
+      "lat": 37.085331
+  }
+},
+{
+  "id": 4244967,
+  "name": "Mount Carmel",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.761421,
+      "lat": 38.410881
+  }
+},
+{
+  "id": 4245045,
+  "name": "Mount Olive",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.72731,
+      "lat": 39.072269
+  }
+},
+{
+  "id": 4245136,
+  "name": "Mount Sterling",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.763458,
+      "lat": 39.98727
+  }
+},
+{
+  "id": 4245152,
+  "name": "Mount Vernon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.903122,
+      "lat": 38.317268
+  }
+},
+{
+  "id": 4245174,
+  "name": "Mount Zion",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.874237,
+      "lat": 39.771431
+  }
+},
+{
+  "id": 4245258,
+  "name": "Moweaqua",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.018967,
+      "lat": 39.62476
+  }
+},
+{
+  "id": 4245336,
+  "name": "Murphysboro",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.335091,
+      "lat": 37.7645
+  }
+},
+{
+  "id": 4245376,
+  "name": "Nashville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.380638,
+      "lat": 38.343658
+  }
+},
+{
+  "id": 4245443,
+  "name": "Neoga",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.452827,
+      "lat": 39.319481
+  }
+},
+{
+  "id": 4245463,
+  "name": "New Athens",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.877052,
+      "lat": 38.326439
+  }
+},
+{
+  "id": 4245474,
+  "name": "New Baden",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.700653,
+      "lat": 38.535049
+  }
+},
+{
+  "id": 4245481,
+  "name": "New Berlin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.91066,
+      "lat": 39.72533
+  }
+},
+{
+  "id": 4245592,
+  "name": "New Liberty",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.447823,
+      "lat": 37.122002
+  }
+},
+{
+  "id": 4245744,
+  "name": "Nokomis",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.28508,
+      "lat": 39.301159
+  }
+},
+{
+  "id": 4245780,
+  "name": "Norris City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.329208,
+      "lat": 37.981159
+  }
+},
+{
+  "id": 4245926,
+  "name": "O'Fallon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.911209,
+      "lat": 38.59227
+  }
+},
+{
+  "id": 4246124,
+  "name": "Oakwood Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.068443,
+      "lat": 38.88171
+  }
+},
+{
+  "id": 4246130,
+  "name": "Oblong",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.90892,
+      "lat": 39.001991
+  }
+},
+{
+  "id": 4246147,
+  "name": "Odin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.052292,
+      "lat": 38.617271
+  }
+},
+{
+  "id": 4246180,
+  "name": "Okawville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.550369,
+      "lat": 38.434219
+  }
+},
+{
+  "id": 4246382,
+  "name": "Olney",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.08532,
+      "lat": 38.730881
+  }
+},
+{
+  "id": 4246560,
+  "name": "Palestine",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.612801,
+      "lat": 39.003651
+  }
+},
+{
+  "id": 4246595,
+  "name": "Pana",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.080078,
+      "lat": 39.388931
+  }
+},
+{
+  "id": 4246659,
+  "name": "Paris",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.696136,
+      "lat": 39.611149
+  }
+},
+{
+  "id": 4246757,
+  "name": "Pawnee",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.580368,
+      "lat": 39.591721
+  }
+},
+{
+  "id": 4246765,
+  "name": "Payson",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.242371,
+      "lat": 39.81699
+  }
+},
+{
+  "id": 4246953,
+  "name": "Pike County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.816803,
+      "lat": 39.600052
+  }
+},
+{
+  "id": 4246983,
+  "name": "Pinckneyville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.382027,
+      "lat": 38.08033
+  }
+},
+{
+  "id": 4247060,
+  "name": "Pittsfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.80513,
+      "lat": 39.60783
+  }
+},
+{
+  "id": 4247379,
+  "name": "Pontoon Beach",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.080383,
+      "lat": 38.73172
+  }
+},
+{
+  "id": 4247387,
+  "name": "Pope County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.566711,
+      "lat": 37.416721
+  }
+},
+{
+  "id": 4247672,
+  "name": "Pureton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.224487,
+      "lat": 38.730598
+  }
+},
+{
+  "id": 4247703,
+  "name": "Quincy",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.409866,
+      "lat": 39.9356
+  }
+},
+{
+  "id": 4247770,
+  "name": "Raleigh",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.531998,
+      "lat": 37.826988
+  }
+},
+{
+  "id": 4247779,
+  "name": "Ramsey",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.108681,
+      "lat": 39.144489
+  }
+},
+{
+  "id": 4247802,
+  "name": "Randolph County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.850098,
+      "lat": 38.066719
+  }
+},
+{
+  "id": 4247860,
+  "name": "Raymond",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.572037,
+      "lat": 39.319489
+  }
+},
+{
+  "id": 4247880,
+  "name": "Red Bud",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.99427,
+      "lat": 38.21172
+  }
+},
+{
+  "id": 4248062,
+  "name": "Richland County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.100037,
+      "lat": 38.716709
+  }
+},
+{
+  "id": 4248205,
+  "name": "Riverton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.539543,
+      "lat": 39.844219
+  }
+},
+{
+  "id": 4248256,
+  "name": "Robinson",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.739189,
+      "lat": 39.005322
+  }
+},
+{
+  "id": 4248284,
+  "name": "Rochester",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.531761,
+      "lat": 39.749489
+  }
+},
+{
+  "id": 4248420,
+  "name": "Roodhouse",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.371513,
+      "lat": 39.48394
+  }
+},
+{
+  "id": 4248480,
+  "name": "Rosewood Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.084831,
+      "lat": 38.887829
+  }
+},
+{
+  "id": 4248482,
+  "name": "Rosiclare",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.346153,
+      "lat": 37.42366
+  }
+},
+{
+  "id": 4248509,
+  "name": "Round Knob",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.737549,
+      "lat": 37.24728
+  }
+},
+{
+  "id": 4248546,
+  "name": "Roxana",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.076218,
+      "lat": 38.848381
+  }
+},
+{
+  "id": 4248562,
+  "name": "Royalton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.114517,
+      "lat": 37.876991
+  }
+},
+{
+  "id": 4248751,
+  "name": "Saint Clair County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.916771,
+      "lat": 38.550049
+  }
+},
+{
+  "id": 4248788,
+  "name": "Saint Elmo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.848106,
+      "lat": 39.027271
+  }
+},
+{
+  "id": 4248819,
+  "name": "Saint Jacob",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.76815,
+      "lat": 38.71394
+  }
+},
+{
+  "id": 4249286,
+  "name": "Salem",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.945618,
+      "lat": 38.626991
+  }
+},
+{
+  "id": 4249341,
+  "name": "Saline County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.550049,
+      "lat": 37.766708
+  }
+},
+{
+  "id": 4249437,
+  "name": "Sandoval",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.114227,
+      "lat": 38.615601
+  }
+},
+{
+  "id": 4249472,
+  "name": "Sangamon County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.650101,
+      "lat": 39.76672
+  }
+},
+{
+  "id": 4249516,
+  "name": "Savage (historical)",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.210953,
+      "lat": 39.781441
+  }
+},
+{
+  "id": 4249704,
+  "name": "Sesser",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.050346,
+      "lat": 38.091721
+  }
+},
+{
+  "id": 4249830,
+  "name": "Shawneetown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.186699,
+      "lat": 37.7131
+  }
+},
+{
+  "id": 4249857,
+  "name": "Shelbyville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.79007,
+      "lat": 39.406429
+  }
+},
+{
+  "id": 4249885,
+  "name": "Sherman",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.60482,
+      "lat": 39.893661
+  }
+},
+{
+  "id": 4249910,
+  "name": "Shiloh",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.897324,
+      "lat": 38.56144
+  }
+},
+{
+  "id": 4250209,
+  "name": "Smithton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.99205,
+      "lat": 38.408661
+  }
+},
+{
+  "id": 4250334,
+  "name": "South Jacksonville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.22818,
+      "lat": 39.70866
+  }
+},
+{
+  "id": 4250399,
+  "name": "South Roxana",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.062881,
+      "lat": 38.829491
+  }
+},
+{
+  "id": 4250404,
+  "name": "Southern View",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.653709,
+      "lat": 39.757271
+  }
+},
+{
+  "id": 4250476,
+  "name": "Sparta",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.701767,
+      "lat": 38.123112
+  }
+},
+{
+  "id": 4250542,
+  "name": "Springfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.643707,
+      "lat": 39.80172
+  }
+},
+{
+  "id": 4250608,
+  "name": "Staunton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.791206,
+      "lat": 39.012272
+  }
+},
+{
+  "id": 4250627,
+  "name": "Steeleville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.658432,
+      "lat": 38.007271
+  }
+},
+{
+  "id": 4250862,
+  "name": "Sullivan",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.607841,
+      "lat": 39.59948
+  }
+},
+{
+  "id": 4250895,
+  "name": "Summersville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.867012,
+      "lat": 38.327831
+  }
+},
+{
+  "id": 4250909,
+  "name": "Sumner",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.86142,
+      "lat": 38.716991
+  }
+},
+{
+  "id": 4251003,
+  "name": "Swansea",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.988991,
+      "lat": 38.533939
+  }
+},
+{
+  "id": 4251141,
+  "name": "Taylorville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.294533,
+      "lat": 39.548939
+  }
+},
+{
+  "id": 4251185,
+  "name": "Teutopolis",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.471992,
+      "lat": 39.133099
+  }
+},
+{
+  "id": 4251330,
+  "name": "Toledo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.243652,
+      "lat": 39.273651
+  }
+},
+{
+  "id": 4251341,
+  "name": "Tolono",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.258942,
+      "lat": 39.986141
+  }
+},
+{
+  "id": 4251347,
+  "name": "Toms Prairie",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.258652,
+      "lat": 38.407829
+  }
+},
+{
+  "id": 4251413,
+  "name": "Trenton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.682037,
+      "lat": 38.605598
+  }
+},
+{
+  "id": 4251513,
+  "name": "Troy",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.883148,
+      "lat": 38.72921
+  }
+},
+{
+  "id": 4251593,
+  "name": "Tuscola",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.283096,
+      "lat": 39.799198
+  }
+},
+{
+  "id": 4251841,
+  "name": "Upper Alton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.150658,
+      "lat": 38.911442
+  }
+},
+{
+  "id": 4251900,
+  "name": "Valmeyer",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.276512,
+      "lat": 38.305611
+  }
+},
+{
+  "id": 4251917,
+  "name": "Vandalia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.093681,
+      "lat": 38.960602
+  }
+},
+{
+  "id": 4251958,
+  "name": "Venice",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.16983,
+      "lat": 38.672272
+  }
+},
+{
+  "id": 4252025,
+  "name": "Vienna",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.897842,
+      "lat": 37.415329
+  }
+},
+{
+  "id": 4252041,
+  "name": "Villa Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.16227,
+      "lat": 39.862808
+  }
+},
+{
+  "id": 4252060,
+  "name": "Virden",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.767868,
+      "lat": 39.500889
+  }
+},
+{
+  "id": 4252071,
+  "name": "Virginia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.212341,
+      "lat": 39.95116
+  }
+},
+{
+  "id": 4252425,
+  "name": "Wamac",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.140633,
+      "lat": 38.508942
+  }
+},
+{
+  "id": 4252469,
+  "name": "Warrensburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.062027,
+      "lat": 39.932819
+  }
+},
+{
+  "id": 4252512,
+  "name": "Washington Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.092888,
+      "lat": 38.635052
+  }
+},
+{
+  "id": 4252548,
+  "name": "Waterloo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.149834,
+      "lat": 38.335892
+  }
+},
+{
+  "id": 4252603,
+  "name": "Wayne City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.58783,
+      "lat": 38.345329
+  }
+},
+{
+  "id": 4252607,
+  "name": "Wayne County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.41671,
+      "lat": 38.43338
+  }
+},
+{
+  "id": 4252616,
+  "name": "Waverly",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.952881,
+      "lat": 39.591721
+  }
+},
+{
+  "id": 4252812,
+  "name": "West Frankfort",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.931458,
+      "lat": 37.897831
+  }
+},
+{
+  "id": 4252955,
+  "name": "White County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.166702,
+      "lat": 38.083382
+  }
+},
+{
+  "id": 4252975,
+  "name": "White Hall",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.403183,
+      "lat": 39.436989
+  }
+},
+{
+  "id": 4253173,
+  "name": "Williamson County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.933403,
+      "lat": 37.733379
+  }
+},
+{
+  "id": 4253179,
+  "name": "Williamsville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.548714,
+      "lat": 39.95422
+  }
+},
+{
+  "id": 4253268,
+  "name": "Winchester",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.456238,
+      "lat": 39.629768
+  }
+},
+{
+  "id": 4253280,
+  "name": "Windsor",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.59478,
+      "lat": 39.440868
+  }
+},
+{
+  "id": 4253387,
+  "name": "Wood River",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.09761,
+      "lat": 38.86116
+  }
+},
+{
+  "id": 4253472,
+  "name": "Worden",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.838989,
+      "lat": 38.931438
+  }
+},
+{
+  "id": 4253591,
+  "name": "Zeigler",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.052017,
+      "lat": 37.89949
+  }
+},
+{
+  "id": 4828344,
+  "name": "Bando",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.709549,
+      "lat": 39.827549
+  }
+},
+{
+  "id": 4828384,
+  "name": "Newton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.162537,
+      "lat": 38.990879
+  }
+},
+{
+  "id": 4828388,
+  "name": "Narita",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.218979,
+      "lat": 39.983101
+  }
+},
+{
+  "id": 4831990,
+  "name": "Canton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.035118,
+      "lat": 40.55809
+  }
+},
+{
+  "id": 4832014,
+  "name": "Deer Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.036186,
+      "lat": 41.295029
+  }
+},
+{
+  "id": 4832038,
+  "name": "Glendale Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.071739,
+      "lat": 41.910309
+  }
+},
+{
+  "id": 4832074,
+  "name": "Lena",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.822342,
+      "lat": 42.379459
+  }
+},
+{
+  "id": 4882839,
+  "name": "Abingdon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.401802,
+      "lat": 40.804482
+  }
+},
+{
+  "id": 4882920,
+  "name": "Addison",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.98896,
+      "lat": 41.931702
+  }
+},
+{
+  "id": 4883053,
+  "name": "Aledo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.749313,
+      "lat": 41.19976
+  }
+},
+{
+  "id": 4883078,
+  "name": "Algonquin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.29425,
+      "lat": 42.165581
+  }
+},
+{
+  "id": 4883207,
+  "name": "Alsip",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.738663,
+      "lat": 41.668919
+  }
+},
+{
+  "id": 4883249,
+  "name": "Amboy",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.328712,
+      "lat": 41.714199
+  }
+},
+{
+  "id": 4883311,
+  "name": "Andalusia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.717644,
+      "lat": 41.439201
+  }
+},
+{
+  "id": 4883393,
+  "name": "Antioch",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.095642,
+      "lat": 42.477242
+  }
+},
+{
+  "id": 4883555,
+  "name": "Arlington Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.980629,
+      "lat": 42.08836
+  }
+},
+{
+  "id": 4883614,
+  "name": "Aroma Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.811432,
+      "lat": 41.07975
+  }
+},
+{
+  "id": 4883749,
+  "name": "Astoria",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.359573,
+      "lat": 40.227539
+  }
+},
+{
+  "id": 4883772,
+  "name": "Atlanta",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.233421,
+      "lat": 40.25948
+  }
+},
+{
+  "id": 4883817,
+  "name": "Aurora",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.320068,
+      "lat": 41.760578
+  }
+},
+{
+  "id": 4883999,
+  "name": "Bakerville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.196762,
+      "lat": 40.063099
+  }
+},
+{
+  "id": 4884026,
+  "name": "Bancroft Corners",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.862022,
+      "lat": 42.421131
+  }
+},
+{
+  "id": 4884038,
+  "name": "Bannockburn",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.866463,
+      "lat": 42.193359
+  }
+},
+{
+  "id": 4884116,
+  "name": "Barrington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.136192,
+      "lat": 42.153912
+  }
+},
+{
+  "id": 4884121,
+  "name": "Barrington Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.155632,
+      "lat": 42.144749
+  }
+},
+{
+  "id": 4884141,
+  "name": "Bartlett",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.185631,
+      "lat": 41.995029
+  }
+},
+{
+  "id": 4884161,
+  "name": "Bartonville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.652046,
+      "lat": 40.650318
+  }
+},
+{
+  "id": 4884192,
+  "name": "Batavia",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.312569,
+      "lat": 41.850029
+  }
+},
+{
+  "id": 4884249,
+  "name": "Beach Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.8573,
+      "lat": 42.422241
+  }
+},
+{
+  "id": 4884282,
+  "name": "Beardstown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.424294,
+      "lat": 40.017551
+  }
+},
+{
+  "id": 4884352,
+  "name": "Beecher",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.621429,
+      "lat": 41.340591
+  }
+},
+{
+  "id": 4884416,
+  "name": "Bellevue",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.680099,
+      "lat": 40.684479
+  }
+},
+{
+  "id": 4884434,
+  "name": "Bellwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.883118,
+      "lat": 41.88142
+  }
+},
+{
+  "id": 4884453,
+  "name": "Belvidere",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.844269,
+      "lat": 42.263908
+  }
+},
+{
+  "id": 4884509,
+  "name": "Bensenville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.940071,
+      "lat": 41.955029
+  }
+},
+{
+  "id": 4884562,
+  "name": "Berkeley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.903397,
+      "lat": 41.88892
+  }
+},
+{
+  "id": 4884597,
+  "name": "Berwyn",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.793671,
+      "lat": 41.85059
+  }
+},
+{
+  "id": 4884902,
+  "name": "Big Rock",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.54702,
+      "lat": 41.76392
+  }
+},
+{
+  "id": 4884947,
+  "name": "Binnie Lakes",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.359528,
+      "lat": 42.116409
+  }
+},
+{
+  "id": 4884951,
+  "name": "Birchwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.665337,
+      "lat": 42.016701
+  }
+},
+{
+  "id": 4885156,
+  "name": "Bloomingdale",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.080902,
+      "lat": 41.957531
+  }
+},
+{
+  "id": 4885164,
+  "name": "Bloomington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.99369,
+      "lat": 40.4842
+  }
+},
+{
+  "id": 4885186,
+  "name": "Blue Island",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.680054,
+      "lat": 41.657261
+  }
+},
+{
+  "id": 4885265,
+  "name": "Bolingbrook",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.068398,
+      "lat": 41.698639
+  }
+},
+{
+  "id": 4885336,
+  "name": "Boulder Hill",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.336182,
+      "lat": 41.712528
+  }
+},
+{
+  "id": 4885342,
+  "name": "Bourbonnais",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.875038,
+      "lat": 41.141701
+  }
+},
+{
+  "id": 4885392,
+  "name": "Boone County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.816772,
+      "lat": 42.333351
+  }
+},
+{
+  "id": 4885418,
+  "name": "Bradley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.861153,
+      "lat": 41.141979
+  }
+},
+{
+  "id": 4885444,
+  "name": "Braidwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.21228,
+      "lat": 41.26503
+  }
+},
+{
+  "id": 4885493,
+  "name": "Bremen",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.413742,
+      "lat": 42.400558
+  }
+},
+{
+  "id": 4885573,
+  "name": "Bridgeview",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.804222,
+      "lat": 41.750031
+  }
+},
+{
+  "id": 4885637,
+  "name": "Broadview",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.853394,
+      "lat": 41.863918
+  }
+},
+{
+  "id": 4885689,
+  "name": "Brookfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.85173,
+      "lat": 41.823921
+  }
+},
+{
+  "id": 4885902,
+  "name": "Bucks",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.970078,
+      "lat": 40.265041
+  }
+},
+{
+  "id": 4885955,
+  "name": "Buffalo Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.959793,
+      "lat": 42.151409
+  }
+},
+{
+  "id": 4885961,
+  "name": "Bull Valley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.355087,
+      "lat": 42.32058
+  }
+},
+{
+  "id": 4885983,
+  "name": "Burbank",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.779503,
+      "lat": 41.733921
+  }
+},
+{
+  "id": 4885994,
+  "name": "Bureau County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.516762,
+      "lat": 41.40004
+  }
+},
+{
+  "id": 4886038,
+  "name": "Burnham",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.556709,
+      "lat": 41.63892
+  }
+},
+{
+  "id": 4886090,
+  "name": "Burr Ridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.918388,
+      "lat": 41.74892
+  }
+},
+{
+  "id": 4886117,
+  "name": "Bushnell",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.506241,
+      "lat": 40.552818
+  }
+},
+{
+  "id": 4886188,
+  "name": "Byron",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.255661,
+      "lat": 42.126968
+  }
+},
+{
+  "id": 4886192,
+  "name": "Byron Hills Estates",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.269829,
+      "lat": 42.141411
+  }
+},
+{
+  "id": 4886255,
+  "name": "Calumet City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.529488,
+      "lat": 41.615589
+  }
+},
+{
+  "id": 4886269,
+  "name": "Calumet Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.660599,
+      "lat": 41.662811
+  }
+},
+{
+  "id": 4886374,
+  "name": "Cambridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.192902,
+      "lat": 41.30365
+  }
+},
+{
+  "id": 4886464,
+  "name": "Camp Point",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.069298,
+      "lat": 40.039211
+  }
+},
+{
+  "id": 4886494,
+  "name": "Campbell",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.57946,
+      "lat": 40.191151
+  }
+},
+{
+  "id": 4886584,
+  "name": "Capron",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.740379,
+      "lat": 42.399738
+  }
+},
+{
+  "id": 4886590,
+  "name": "Carbon Cliff",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.390678,
+      "lat": 41.494759
+  }
+},
+{
+  "id": 4886662,
+  "name": "Carol Stream",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.134789,
+      "lat": 41.912529
+  }
+},
+{
+  "id": 4886676,
+  "name": "Carpentersville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.257858,
+      "lat": 42.12114
+  }
+},
+{
+  "id": 4886694,
+  "name": "Carroll County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.916786,
+      "lat": 42.066689
+  }
+},
+{
+  "id": 4886716,
+  "name": "Carthage",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.136253,
+      "lat": 40.416431
+  }
+},
+{
+  "id": 4886717,
+  "name": "Carthage",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.313713,
+      "lat": 41.918919
+  }
+},
+{
+  "id": 4886738,
+  "name": "Cary",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.238136,
+      "lat": 42.211971
+  }
+},
+{
+  "id": 4886765,
+  "name": "Castle Junction",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.577911,
+      "lat": 41.392529
+  }
+},
+{
+  "id": 4886790,
+  "name": "Catlin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.701973,
+      "lat": 40.065041
+  }
+},
+{
+  "id": 4887024,
+  "name": "Central City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.281731,
+      "lat": 41.237808
+  }
+},
+{
+  "id": 4887137,
+  "name": "Chadwick",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.890678,
+      "lat": 42.013359
+  }
+},
+{
+  "id": 4887158,
+  "name": "Champaign",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.243378,
+      "lat": 40.116421
+  }
+},
+{
+  "id": 4887163,
+  "name": "Champaign County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.20005,
+      "lat": 40.133369
+  }
+},
+{
+  "id": 4887198,
+  "name": "Channahon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.228668,
+      "lat": 41.429482
+  }
+},
+{
+  "id": 4887205,
+  "name": "Channel Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.137589,
+      "lat": 42.47863
+  }
+},
+{
+  "id": 4887290,
+  "name": "Chatsworth",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.291992,
+      "lat": 40.753651
+  }
+},
+{
+  "id": 4887309,
+  "name": "Chebanse",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.908096,
+      "lat": 41.00309
+  }
+},
+{
+  "id": 4887330,
+  "name": "Chenoa",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.719788,
+      "lat": 40.741699
+  }
+},
+{
+  "id": 4887364,
+  "name": "Cherry Valley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.94899,
+      "lat": 42.234741
+  }
+},
+{
+  "id": 4887398,
+  "name": "Chicago",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.650047,
+      "lat": 41.850029
+  }
+},
+{
+  "id": 4887442,
+  "name": "Chicago Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.635597,
+      "lat": 41.506149
+  }
+},
+{
+  "id": 4887492,
+  "name": "Chicago Ridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.779221,
+      "lat": 41.70142
+  }
+},
+{
+  "id": 4887574,
+  "name": "Chillicothe",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.486198,
+      "lat": 40.92226
+  }
+},
+{
+  "id": 4888015,
+  "name": "Cicero",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.753937,
+      "lat": 41.845589
+  }
+},
+{
+  "id": 4888080,
+  "name": "Clarendon Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.954781,
+      "lat": 41.797531
+  }
+},
+{
+  "id": 4888208,
+  "name": "Clifton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.934486,
+      "lat": 40.93531
+  }
+},
+{
+  "id": 4888217,
+  "name": "Clinton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.964531,
+      "lat": 40.153648
+  }
+},
+{
+  "id": 4888270,
+  "name": "Coal City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.285622,
+      "lat": 41.287811
+  }
+},
+{
+  "id": 4888296,
+  "name": "Coal Valley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.46096,
+      "lat": 41.42865
+  }
+},
+{
+  "id": 4888331,
+  "name": "Colchester",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.792633,
+      "lat": 40.42643
+  }
+},
+{
+  "id": 4888366,
+  "name": "Colfax",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.616447,
+      "lat": 40.566978
+  }
+},
+{
+  "id": 4888432,
+  "name": "Colona",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.35318,
+      "lat": 41.483921
+  }
+},
+{
+  "id": 4888439,
+  "name": "Colonial Meadows",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.925346,
+      "lat": 40.476151
+  }
+},
+{
+  "id": 4888671,
+  "name": "Cook County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.85006,
+      "lat": 41.833359
+  }
+},
+{
+  "id": 4888810,
+  "name": "Cortland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.688698,
+      "lat": 41.920029
+  }
+},
+{
+  "id": 4888892,
+  "name": "Country Club Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.720329,
+      "lat": 41.568089
+  }
+},
+{
+  "id": 4888906,
+  "name": "Countryside",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.878113,
+      "lat": 41.78281
+  }
+},
+{
+  "id": 4889038,
+  "name": "Crandall",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.432037,
+      "lat": 40.63282
+  }
+},
+{
+  "id": 4889107,
+  "name": "Crest Hill",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.098671,
+      "lat": 41.554749
+  }
+},
+{
+  "id": 4889113,
+  "name": "Crestwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.752548,
+      "lat": 41.66114
+  }
+},
+{
+  "id": 4889120,
+  "name": "Crete",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.631432,
+      "lat": 41.444481
+  }
+},
+{
+  "id": 4889130,
+  "name": "Creve Coeur",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.591209,
+      "lat": 40.647259
+  }
+},
+{
+  "id": 4889229,
+  "name": "Crystal Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.3162,
+      "lat": 42.241131
+  }
+},
+{
+  "id": 4889248,
+  "name": "Crystal Lawns",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.158119,
+      "lat": 41.570309
+  }
+},
+{
+  "id": 4889255,
+  "name": "Cuba",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.190681,
+      "lat": 40.492821
+  }
+},
+{
+  "id": 4889256,
+  "name": "Cuba",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.19091,
+      "lat": 42.18391
+  }
+},
+{
+  "id": 4889370,
+  "name": "Dalzell",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.176201,
+      "lat": 41.357811
+  }
+},
+{
+  "id": 4889423,
+  "name": "Danvers",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.177307,
+      "lat": 40.52948
+  }
+},
+{
+  "id": 4889426,
+  "name": "Danville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.63002,
+      "lat": 40.124481
+  }
+},
+{
+  "id": 4889447,
+  "name": "Darien",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.973953,
+      "lat": 41.75198
+  }
+},
+{
+  "id": 4889496,
+  "name": "Davis Junction",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.093163,
+      "lat": 42.101688
+  }
+},
+{
+  "id": 4889548,
+  "name": "De Witt County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.916748,
+      "lat": 40.166698
+  }
+},
+{
+  "id": 4889553,
+  "name": "DeKalb",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.750359,
+      "lat": 41.92947
+  }
+},
+{
+  "id": 4889554,
+  "name": "DeKalb County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.750359,
+      "lat": 41.916698
+  }
+},
+{
+  "id": 4889652,
+  "name": "Deer Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.081467,
+      "lat": 42.160858
+  }
+},
+{
+  "id": 4889668,
+  "name": "Deerfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.844513,
+      "lat": 42.171139
+  }
+},
+{
+  "id": 4889700,
+  "name": "Delavan",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.547318,
+      "lat": 40.37254
+  }
+},
+{
+  "id": 4889761,
+  "name": "Depue",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.306747,
+      "lat": 41.3242
+  }
+},
+{
+  "id": 4889772,
+  "name": "Des Plaines",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.8834,
+      "lat": 42.03336
+  }
+},
+{
+  "id": 4889835,
+  "name": "Diamond",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.251732,
+      "lat": 41.288639
+  }
+},
+{
+  "id": 4889957,
+  "name": "Dixmoor",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.660881,
+      "lat": 41.631699
+  }
+},
+{
+  "id": 4889959,
+  "name": "Dixon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.479553,
+      "lat": 41.838921
+  }
+},
+{
+  "id": 4890009,
+  "name": "Dolton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.607269,
+      "lat": 41.63892
+  }
+},
+{
+  "id": 4890119,
+  "name": "Downers Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.011169,
+      "lat": 41.808922
+  }
+},
+{
+  "id": 4890138,
+  "name": "Downs",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.870628,
+      "lat": 40.39698
+  }
+},
+{
+  "id": 4890213,
+  "name": "DuPage County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.083397,
+      "lat": 41.833359
+  }
+},
+{
+  "id": 4890304,
+  "name": "Dunlap",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.678711,
+      "lat": 40.861698
+  }
+},
+{
+  "id": 4890327,
+  "name": "Durand",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.332062,
+      "lat": 42.436401
+  }
+},
+{
+  "id": 4890359,
+  "name": "Dwight",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.425056,
+      "lat": 41.094479
+  }
+},
+{
+  "id": 4890441,
+  "name": "Earlville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.922028,
+      "lat": 41.589481
+  }
+},
+{
+  "id": 4890486,
+  "name": "East Dundee",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.271469,
+      "lat": 42.098911
+  }
+},
+{
+  "id": 4890497,
+  "name": "East Dubuque",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.642906,
+      "lat": 42.492229
+  }
+},
+{
+  "id": 4890513,
+  "name": "East Hazel Crest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.646431,
+      "lat": 41.57365
+  }
+},
+{
+  "id": 4890536,
+  "name": "East Moline",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.444298,
+      "lat": 41.50087
+  }
+},
+{
+  "id": 4890549,
+  "name": "East Peoria",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.580101,
+      "lat": 40.666149
+  }
+},
+{
+  "id": 4890813,
+  "name": "El Paso",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.016457,
+      "lat": 40.739201
+  }
+},
+{
+  "id": 4890835,
+  "name": "Elburn",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.472298,
+      "lat": 41.89225
+  }
+},
+{
+  "id": 4890864,
+  "name": "Elgin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.281189,
+      "lat": 42.037251
+  }
+},
+{
+  "id": 4890925,
+  "name": "Elk Grove Village",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.970352,
+      "lat": 42.003922
+  }
+},
+{
+  "id": 4891010,
+  "name": "Elmhurst",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.940338,
+      "lat": 41.899471
+  }
+},
+{
+  "id": 4891030,
+  "name": "Elmwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.966499,
+      "lat": 40.777821
+  }
+},
+{
+  "id": 4891051,
+  "name": "Elmwood Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.809227,
+      "lat": 41.921139
+  }
+},
+{
+  "id": 4891077,
+  "name": "Elwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.111717,
+      "lat": 41.403919
+  }
+},
+{
+  "id": 4891240,
+  "name": "Erie",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.079292,
+      "lat": 41.656422
+  }
+},
+{
+  "id": 4891310,
+  "name": "Eureka",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.272858,
+      "lat": 40.721432
+  }
+},
+{
+  "id": 4891382,
+  "name": "Evanston",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.690063,
+      "lat": 42.041142
+  }
+},
+{
+  "id": 4891431,
+  "name": "Evergreen Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.701721,
+      "lat": 41.720589
+  }
+},
+{
+  "id": 4891520,
+  "name": "Fairbury",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.514778,
+      "lat": 40.747261
+  }
+},
+{
+  "id": 4891534,
+  "name": "Fairfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.06147,
+      "lat": 42.219189
+  }
+},
+{
+  "id": 4891555,
+  "name": "Fairmont",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.059227,
+      "lat": 41.556141
+  }
+},
+{
+  "id": 4891772,
+  "name": "Farmer City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.64257,
+      "lat": 40.24337
+  }
+},
+{
+  "id": 4891784,
+  "name": "Farmington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.005951,
+      "lat": 40.69809
+  }
+},
+{
+  "id": 4891785,
+  "name": "Farmington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.31591,
+      "lat": 41.944752
+  }
+},
+{
+  "id": 4892570,
+  "name": "Fisher",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.350052,
+      "lat": 40.314758
+  }
+},
+{
+  "id": 4892637,
+  "name": "Flanagan",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.861183,
+      "lat": 40.87809
+  }
+},
+{
+  "id": 4892684,
+  "name": "Flossmoor",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.684769,
+      "lat": 41.542809
+  }
+},
+{
+  "id": 4892729,
+  "name": "Ford County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.25061,
+      "lat": 40.58337
+  }
+},
+{
+  "id": 4892731,
+  "name": "Ford Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.591713,
+      "lat": 41.50642
+  }
+},
+{
+  "id": 4892770,
+  "name": "Forest Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.055634,
+      "lat": 42.20752
+  }
+},
+{
+  "id": 4892775,
+  "name": "Forest Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.813667,
+      "lat": 41.879478
+  }
+},
+{
+  "id": 4892812,
+  "name": "Forrest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.411163,
+      "lat": 40.75198
+  }
+},
+{
+  "id": 4892818,
+  "name": "Forreston",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.579277,
+      "lat": 42.126141
+  }
+},
+{
+  "id": 4892950,
+  "name": "Fox Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.183701,
+      "lat": 42.39669
+  }
+},
+{
+  "id": 4892953,
+  "name": "Fox Lake Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.131752,
+      "lat": 42.408081
+  }
+},
+{
+  "id": 4892971,
+  "name": "Fox River Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.214531,
+      "lat": 42.200859
+  }
+},
+{
+  "id": 4893037,
+  "name": "Frankfort",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.848663,
+      "lat": 41.495869
+  }
+},
+{
+  "id": 4893043,
+  "name": "Frankfort Square",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.803101,
+      "lat": 41.518921
+  }
+},
+{
+  "id": 4893061,
+  "name": "Franklin Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.300377,
+      "lat": 41.841702
+  }
+},
+{
+  "id": 4893070,
+  "name": "Franklin Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.865623,
+      "lat": 41.93531
+  }
+},
+{
+  "id": 4893171,
+  "name": "Freeport",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.621231,
+      "lat": 42.296692
+  }
+},
+{
+  "id": 4893267,
+  "name": "Fruitland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.5168,
+      "lat": 41.47142
+  }
+},
+{
+  "id": 4893309,
+  "name": "Fulton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.159569,
+      "lat": 41.867249
+  }
+},
+{
+  "id": 4893371,
+  "name": "Gages Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.982582,
+      "lat": 42.351688
+  }
+},
+{
+  "id": 4893384,
+  "name": "Galena",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.429024,
+      "lat": 42.416672
+  }
+},
+{
+  "id": 4893392,
+  "name": "Galesburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.371239,
+      "lat": 40.947819
+  }
+},
+{
+  "id": 4893424,
+  "name": "Galva",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.04261,
+      "lat": 41.167542
+  }
+},
+{
+  "id": 4893446,
+  "name": "Garber",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.381721,
+      "lat": 40.515869
+  }
+},
+{
+  "id": 4893472,
+  "name": "Gardner",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.309776,
+      "lat": 41.185589
+  }
+},
+{
+  "id": 4893581,
+  "name": "Geneseo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.154282,
+      "lat": 41.44809
+  }
+},
+{
+  "id": 4893590,
+  "name": "Genet",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.075661,
+      "lat": 42.342522
+  }
+},
+{
+  "id": 4893591,
+  "name": "Geneva",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.305351,
+      "lat": 41.887531
+  }
+},
+{
+  "id": 4893601,
+  "name": "Genoa",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.692871,
+      "lat": 42.097252
+  }
+},
+{
+  "id": 4893637,
+  "name": "Georgetown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.828728,
+      "lat": 42.139751
+  }
+},
+{
+  "id": 4893670,
+  "name": "Germantown Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.467873,
+      "lat": 40.76643
+  }
+},
+{
+  "id": 4893700,
+  "name": "Gibson City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.384598,
+      "lat": 40.458431
+  }
+},
+{
+  "id": 4893731,
+  "name": "Gilberts",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.372864,
+      "lat": 42.103359
+  }
+},
+{
+  "id": 4893755,
+  "name": "Gilman",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.992264,
+      "lat": 40.766701
+  }
+},
+{
+  "id": 4893801,
+  "name": "Glasford",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.813438,
+      "lat": 40.57254
+  }
+},
+{
+  "id": 4893811,
+  "name": "Glen Ellyn",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.067009,
+      "lat": 41.877529
+  }
+},
+{
+  "id": 4893886,
+  "name": "Glenview",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.787842,
+      "lat": 42.069752
+  }
+},
+{
+  "id": 4893896,
+  "name": "Glenwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.602272,
+      "lat": 41.54253
+  }
+},
+{
+  "id": 4894006,
+  "name": "Good Hope",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.673462,
+      "lat": 40.557819
+  }
+},
+{
+  "id": 4894061,
+  "name": "Goodings Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.930893,
+      "lat": 41.6292
+  }
+},
+{
+  "id": 4894078,
+  "name": "Glencoe",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.758118,
+      "lat": 42.135029
+  }
+},
+{
+  "id": 4894360,
+  "name": "Grandwood Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.98674,
+      "lat": 42.393082
+  }
+},
+{
+  "id": 4894387,
+  "name": "Grant Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.646149,
+      "lat": 41.241138
+  }
+},
+{
+  "id": 4894410,
+  "name": "Granville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.227592,
+      "lat": 41.26115
+  }
+},
+{
+  "id": 4894465,
+  "name": "Grayslake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.041748,
+      "lat": 42.344471
+  }
+},
+{
+  "id": 4894614,
+  "name": "Green Oaks",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.903412,
+      "lat": 42.29002
+  }
+},
+{
+  "id": 4894625,
+  "name": "Green Rock",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.357628,
+      "lat": 41.473091
+  }
+},
+{
+  "id": 4894753,
+  "name": "Gridley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.881462,
+      "lat": 40.74337
+  }
+},
+{
+  "id": 4894861,
+  "name": "Gurnee",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.902023,
+      "lat": 42.3703
+  }
+},
+{
+  "id": 4894921,
+  "name": "Hainesville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.067863,
+      "lat": 42.34502
+  }
+},
+{
+  "id": 4894981,
+  "name": "Hamilton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.339043,
+      "lat": 40.396431
+  }
+},
+{
+  "id": 4895016,
+  "name": "Hampshire",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.530357,
+      "lat": 42.097801
+  }
+},
+{
+  "id": 4895027,
+  "name": "Hampton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.409302,
+      "lat": 41.55587
+  }
+},
+{
+  "id": 4895035,
+  "name": "Hancock County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.150139,
+      "lat": 40.516708
+  }
+},
+{
+  "id": 4895050,
+  "name": "Hanna City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.795113,
+      "lat": 40.6917
+  }
+},
+{
+  "id": 4895066,
+  "name": "Hanover Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.145073,
+      "lat": 41.99947
+  }
+},
+{
+  "id": 4895282,
+  "name": "Harvard",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.613708,
+      "lat": 42.422241
+  }
+},
+{
+  "id": 4895298,
+  "name": "Harvey",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.646713,
+      "lat": 41.610031
+  }
+},
+{
+  "id": 4895308,
+  "name": "Harwood Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.807564,
+      "lat": 41.967251
+  }
+},
+{
+  "id": 4895336,
+  "name": "Havana",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.060951,
+      "lat": 40.300041
+  }
+},
+{
+  "id": 4895376,
+  "name": "Hawthorn Woods",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.049522,
+      "lat": 42.216969
+  }
+},
+{
+  "id": 4895416,
+  "name": "Hazel Crest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.694489,
+      "lat": 41.571701
+  }
+},
+{
+  "id": 4895484,
+  "name": "Hebron",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.43232,
+      "lat": 42.471691
+  }
+},
+{
+  "id": 4895580,
+  "name": "Hennepin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.342308,
+      "lat": 41.2542
+  }
+},
+{
+  "id": 4895593,
+  "name": "Henry",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.356483,
+      "lat": 41.11142
+  }
+},
+{
+  "id": 4895598,
+  "name": "Henry County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.150124,
+      "lat": 41.35004
+  }
+},
+{
+  "id": 4895688,
+  "name": "Herscher",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.097832,
+      "lat": 41.049198
+  }
+},
+{
+  "id": 4895708,
+  "name": "Heyworth",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.973686,
+      "lat": 40.31337
+  }
+},
+{
+  "id": 4895767,
+  "name": "Hickory Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.825058,
+      "lat": 41.72559
+  }
+},
+{
+  "id": 4895876,
+  "name": "Highland Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.800339,
+      "lat": 42.18169
+  }
+},
+{
+  "id": 4895918,
+  "name": "Highwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.809227,
+      "lat": 42.199749
+  }
+},
+{
+  "id": 4895936,
+  "name": "Hillcrest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.064537,
+      "lat": 41.951141
+  }
+},
+{
+  "id": 4895971,
+  "name": "Hillside",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.90284,
+      "lat": 41.877811
+  }
+},
+{
+  "id": 4895999,
+  "name": "Hinckley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.640907,
+      "lat": 41.768921
+  }
+},
+{
+  "id": 4896012,
+  "name": "Hinsdale",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.937012,
+      "lat": 41.800861
+  }
+},
+{
+  "id": 4896069,
+  "name": "Hodgkins",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.857841,
+      "lat": 41.768921
+  }
+},
+{
+  "id": 4896075,
+  "name": "Hoffman Estates",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.079803,
+      "lat": 42.042809
+  }
+},
+{
+  "id": 4896333,
+  "name": "Homer",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.958092,
+      "lat": 40.03476
+  }
+},
+{
+  "id": 4896336,
+  "name": "Homer Glen",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.93811,
+      "lat": 41.600029
+  }
+},
+{
+  "id": 4896348,
+  "name": "Hometown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.731438,
+      "lat": 41.734482
+  }
+},
+{
+  "id": 4896353,
+  "name": "Homewood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.665604,
+      "lat": 41.557259
+  }
+},
+{
+  "id": 4896390,
+  "name": "Hoopeston",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.668358,
+      "lat": 40.467258
+  }
+},
+{
+  "id": 4896555,
+  "name": "Howard District",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.66922,
+      "lat": 42.020859
+  }
+},
+{
+  "id": 4896608,
+  "name": "Hudson",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.987297,
+      "lat": 40.605869
+  }
+},
+{
+  "id": 4896691,
+  "name": "Huntley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.428139,
+      "lat": 42.168079
+  }
+},
+{
+  "id": 4896861,
+  "name": "Illinois",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.250366,
+      "lat": 40.00032
+  }
+},
+{
+  "id": 4897039,
+  "name": "Indian Head Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.902283,
+      "lat": 41.770309
+  }
+},
+{
+  "id": 4897105,
+  "name": "Ingalls Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.042831,
+      "lat": 41.52253
+  }
+},
+{
+  "id": 4897482,
+  "name": "Inverness",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.096191,
+      "lat": 42.11808
+  }
+},
+{
+  "id": 4897521,
+  "name": "Iroquois County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.833366,
+      "lat": 40.750591
+  }
+},
+{
+  "id": 4897579,
+  "name": "Island Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.192032,
+      "lat": 42.276131
+  }
+},
+{
+  "id": 4897654,
+  "name": "Itasca",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.007294,
+      "lat": 41.975029
+  }
+},
+{
+  "id": 4897897,
+  "name": "Jo Daviess County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.183456,
+      "lat": 42.35001
+  }
+},
+{
+  "id": 4897967,
+  "name": "Johnsburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.242027,
+      "lat": 42.38002
+  }
+},
+{
+  "id": 4898015,
+  "name": "Joliet",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.081734,
+      "lat": 41.525028
+  }
+},
+{
+  "id": 4898152,
+  "name": "Justice",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.83783,
+      "lat": 41.74448
+  }
+},
+{
+  "id": 4898166,
+  "name": "Kane County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.433411,
+      "lat": 41.950031
+  }
+},
+{
+  "id": 4898182,
+  "name": "Kankakee",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.861153,
+      "lat": 41.120029
+  }
+},
+{
+  "id": 4898188,
+  "name": "Kankakee County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.866707,
+      "lat": 41.150028
+  }
+},
+{
+  "id": 4898342,
+  "name": "Kendall County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.433403,
+      "lat": 41.583359
+  }
+},
+{
+  "id": 4898349,
+  "name": "Kenilworth",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.71756,
+      "lat": 42.085861
+  }
+},
+{
+  "id": 4898433,
+  "name": "Kewanee",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.924828,
+      "lat": 41.24559
+  }
+},
+{
+  "id": 4898480,
+  "name": "Kildeer",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.047852,
+      "lat": 42.170582
+  }
+},
+{
+  "id": 4898589,
+  "name": "Kingston",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.75898,
+      "lat": 42.099751
+  }
+},
+{
+  "id": 4898630,
+  "name": "Kirkland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.851212,
+      "lat": 42.092529
+  }
+},
+{
+  "id": 4898711,
+  "name": "Knollwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.885628,
+      "lat": 42.286129
+  }
+},
+{
+  "id": 4898722,
+  "name": "Knox County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.200119,
+      "lat": 40.933369
+  }
+},
+{
+  "id": 4898734,
+  "name": "Knoxville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.284851,
+      "lat": 40.908371
+  }
+},
+{
+  "id": 4898846,
+  "name": "La Grange",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.869232,
+      "lat": 41.805031
+  }
+},
+{
+  "id": 4898850,
+  "name": "La Grange Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.861732,
+      "lat": 41.834751
+  }
+},
+{
+  "id": 4898856,
+  "name": "La Harpe",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.969307,
+      "lat": 40.58337
+  }
+},
+{
+  "id": 4898875,
+  "name": "La Salle",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.091751,
+      "lat": 41.33337
+  }
+},
+{
+  "id": 4898878,
+  "name": "LaSalle County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.883408,
+      "lat": 41.266701
+  }
+},
+{
+  "id": 4898920,
+  "name": "Lacon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.411201,
+      "lat": 41.024761
+  }
+},
+{
+  "id": 4898927,
+  "name": "Ladd",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.218971,
+      "lat": 41.38253
+  }
+},
+{
+  "id": 4898969,
+  "name": "Lake Barrington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.15258,
+      "lat": 42.212521
+  }
+},
+{
+  "id": 4898974,
+  "name": "Lake Bluff",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.834244,
+      "lat": 42.278912
+  }
+},
+{
+  "id": 4898990,
+  "name": "Lake Catherine",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.133423,
+      "lat": 42.479191
+  }
+},
+{
+  "id": 4898998,
+  "name": "Lake County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.000633,
+      "lat": 42.333359
+  }
+},
+{
+  "id": 4899012,
+  "name": "Lake Forest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.840622,
+      "lat": 42.258629
+  }
+},
+{
+  "id": 4899135,
+  "name": "Lake Summerset",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.389557,
+      "lat": 42.45446
+  }
+},
+{
+  "id": 4899154,
+  "name": "Lake Villa",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.073967,
+      "lat": 42.416969
+  }
+},
+{
+  "id": 4899170,
+  "name": "Lake Zurich",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.093407,
+      "lat": 42.196972
+  }
+},
+{
+  "id": 4899184,
+  "name": "Lake in the Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.33036,
+      "lat": 42.18169
+  }
+},
+{
+  "id": 4899197,
+  "name": "Lake of the Woods",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.368668,
+      "lat": 40.206421
+  }
+},
+{
+  "id": 4899213,
+  "name": "Lakemoor",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.198967,
+      "lat": 42.328629
+  }
+},
+{
+  "id": 4899249,
+  "name": "Lakewood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.355087,
+      "lat": 42.229191
+  }
+},
+{
+  "id": 4899258,
+  "name": "Lakewood Shores",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.144783,
+      "lat": 41.2817
+  }
+},
+{
+  "id": 4899287,
+  "name": "Lanark",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.83345,
+      "lat": 42.102249
+  }
+},
+{
+  "id": 4899340,
+  "name": "Lansing",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.538933,
+      "lat": 41.564758
+  }
+},
+{
+  "id": 4899471,
+  "name": "Le Roy",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.764236,
+      "lat": 40.351978
+  }
+},
+{
+  "id": 4899519,
+  "name": "Lee County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.283432,
+      "lat": 41.750591
+  }
+},
+{
+  "id": 4899581,
+  "name": "Lemont",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.001732,
+      "lat": 41.673641
+  }
+},
+{
+  "id": 4899665,
+  "name": "Lewistown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.154839,
+      "lat": 40.393101
+  }
+},
+{
+  "id": 4899670,
+  "name": "Lexington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.783401,
+      "lat": 40.641418
+  }
+},
+{
+  "id": 4899739,
+  "name": "Libertyville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.953133,
+      "lat": 42.283081
+  }
+},
+{
+  "id": 4899822,
+  "name": "Lincoln",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.364822,
+      "lat": 40.14838
+  }
+},
+{
+  "id": 4899983,
+  "name": "Lincolnshire",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.908401,
+      "lat": 42.190022
+  }
+},
+{
+  "id": 4899988,
+  "name": "Lincolnwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.730057,
+      "lat": 42.004478
+  }
+},
+{
+  "id": 4900013,
+  "name": "Lindenhurst",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.026192,
+      "lat": 42.41058
+  }
+},
+{
+  "id": 4900080,
+  "name": "Lisle",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.074791,
+      "lat": 41.80114
+  }
+},
+{
+  "id": 4900233,
+  "name": "Livingston County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.516724,
+      "lat": 40.866699
+  }
+},
+{
+  "id": 4900292,
+  "name": "Lockport",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.057838,
+      "lat": 41.589481
+  }
+},
+{
+  "id": 4900338,
+  "name": "Logan County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.36676,
+      "lat": 40.133381
+  }
+},
+{
+  "id": 4900373,
+  "name": "Lombard",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.007843,
+      "lat": 41.880032
+  }
+},
+{
+  "id": 4900416,
+  "name": "Long Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.997849,
+      "lat": 42.17836
+  }
+},
+{
+  "id": 4900430,
+  "name": "Long Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.127579,
+      "lat": 42.37085
+  }
+},
+{
+  "id": 4900541,
+  "name": "Lotus Woods",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.173141,
+      "lat": 42.421959
+  }
+},
+{
+  "id": 4900579,
+  "name": "Loves Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.058159,
+      "lat": 42.320019
+  }
+},
+{
+  "id": 4900739,
+  "name": "Lynwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.538651,
+      "lat": 41.526421
+  }
+},
+{
+  "id": 4900740,
+  "name": "Lynwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.393677,
+      "lat": 41.68364
+  }
+},
+{
+  "id": 4900749,
+  "name": "Lyons",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.818108,
+      "lat": 41.81337
+  }
+},
+{
+  "id": 4900801,
+  "name": "Machesney Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.039001,
+      "lat": 42.34724
+  }
+},
+{
+  "id": 4900808,
+  "name": "Mackinaw",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.35759,
+      "lat": 40.53698
+  }
+},
+{
+  "id": 4900817,
+  "name": "Macomb",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.671799,
+      "lat": 40.459209
+  }
+},
+{
+  "id": 4900885,
+  "name": "Mahomet",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.404221,
+      "lat": 40.195309
+  }
+},
+{
+  "id": 4900942,
+  "name": "Malta",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.860924,
+      "lat": 41.929749
+  }
+},
+{
+  "id": 4900961,
+  "name": "Manhattan",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.985893,
+      "lat": 41.422531
+  }
+},
+{
+  "id": 4900970,
+  "name": "Manito",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.779282,
+      "lat": 40.425869
+  }
+},
+{
+  "id": 4901015,
+  "name": "Manteno",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.831429,
+      "lat": 41.250591
+  }
+},
+{
+  "id": 4901102,
+  "name": "Maple Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.599251,
+      "lat": 41.907532
+  }
+},
+{
+  "id": 4901164,
+  "name": "Marengo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.608429,
+      "lat": 42.248631
+  }
+},
+{
+  "id": 4901229,
+  "name": "Markham",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.694771,
+      "lat": 41.593651
+  }
+},
+{
+  "id": 4901249,
+  "name": "Maroa",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.957031,
+      "lat": 40.03643
+  }
+},
+{
+  "id": 4901260,
+  "name": "Marquette Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.60038,
+      "lat": 40.617538
+  }
+},
+{
+  "id": 4901279,
+  "name": "Marseilles",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.70813,
+      "lat": 41.330872
+  }
+},
+{
+  "id": 4901390,
+  "name": "Mason City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.698158,
+      "lat": 40.202271
+  }
+},
+{
+  "id": 4901445,
+  "name": "Matteson",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.713097,
+      "lat": 41.503922
+  }
+},
+{
+  "id": 4901514,
+  "name": "Maywood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.843117,
+      "lat": 41.8792
+  }
+},
+{
+  "id": 4901525,
+  "name": "Mazon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.41951,
+      "lat": 41.241421
+  }
+},
+{
+  "id": 4901609,
+  "name": "McCullom Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.292587,
+      "lat": 42.368351
+  }
+},
+{
+  "id": 4901622,
+  "name": "McDonough County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.666801,
+      "lat": 40.466709
+  }
+},
+{
+  "id": 4901663,
+  "name": "McHenry",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.266747,
+      "lat": 42.333359
+  }
+},
+{
+  "id": 4901666,
+  "name": "McHenry County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.466759,
+      "lat": 42.333351
+  }
+},
+{
+  "id": 4901730,
+  "name": "McLean County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.833397,
+      "lat": 40.483372
+  }
+},
+{
+  "id": 4901868,
+  "name": "Melrose Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.856728,
+      "lat": 41.900589
+  }
+},
+{
+  "id": 4901944,
+  "name": "Mendota",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.117592,
+      "lat": 41.547249
+  }
+},
+{
+  "id": 4902033,
+  "name": "Merrionette Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.700333,
+      "lat": 41.6842
+  }
+},
+{
+  "id": 4902065,
+  "name": "Metamora",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.360641,
+      "lat": 40.790588
+  }
+},
+{
+  "id": 4902181,
+  "name": "Midlothian",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.717552,
+      "lat": 41.625309
+  }
+},
+{
+  "id": 4902218,
+  "name": "Milan",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.572083,
+      "lat": 41.453091
+  }
+},
+{
+  "id": 4902229,
+  "name": "Milford",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.696136,
+      "lat": 40.628368
+  }
+},
+{
+  "id": 4902279,
+  "name": "Milledgeville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.774559,
+      "lat": 41.96336
+  }
+},
+{
+  "id": 4902370,
+  "name": "Minier",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.313148,
+      "lat": 40.433651
+  }
+},
+{
+  "id": 4902382,
+  "name": "Minonk",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.034523,
+      "lat": 40.90448
+  }
+},
+{
+  "id": 4902386,
+  "name": "Minooka",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.261726,
+      "lat": 41.455311
+  }
+},
+{
+  "id": 4902475,
+  "name": "Mokena",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.889221,
+      "lat": 41.526138
+  }
+},
+{
+  "id": 4902476,
+  "name": "Moline",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.515129,
+      "lat": 41.506699
+  }
+},
+{
+  "id": 4902486,
+  "name": "Momence",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.662819,
+      "lat": 41.166698
+  }
+},
+{
+  "id": 4902498,
+  "name": "Monee",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.741707,
+      "lat": 41.420029
+  }
+},
+{
+  "id": 4902512,
+  "name": "Monmouth",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.647362,
+      "lat": 40.91143
+  }
+},
+{
+  "id": 4902559,
+  "name": "Montgomery",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.345901,
+      "lat": 41.730579
+  }
+},
+{
+  "id": 4902567,
+  "name": "Monticello",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.573402,
+      "lat": 40.027809
+  }
+},
+{
+  "id": 4902706,
+  "name": "Morris",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.421181,
+      "lat": 41.35725
+  }
+},
+{
+  "id": 4902724,
+  "name": "Morrison",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.965118,
+      "lat": 41.80975
+  }
+},
+{
+  "id": 4902748,
+  "name": "Morse",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.645103,
+      "lat": 41.23032
+  }
+},
+{
+  "id": 4902754,
+  "name": "Morton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.459259,
+      "lat": 40.61282
+  }
+},
+{
+  "id": 4902763,
+  "name": "Morton Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.782562,
+      "lat": 42.040588
+  }
+},
+{
+  "id": 4902883,
+  "name": "Mount Carroll",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.97818,
+      "lat": 42.09502
+  }
+},
+{
+  "id": 4902955,
+  "name": "Mount Morris",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.431221,
+      "lat": 42.050308
+  }
+},
+{
+  "id": 4903024,
+  "name": "Mount Prospect",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.937286,
+      "lat": 42.066422
+  }
+},
+{
+  "id": 4903032,
+  "name": "Mount Pulaski",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.28231,
+      "lat": 40.01088
+  }
+},
+{
+  "id": 4903184,
+  "name": "Mundelein",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.003967,
+      "lat": 42.263081
+  }
+},
+{
+  "id": 4903279,
+  "name": "Naperville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.147293,
+      "lat": 41.785858
+  }
+},
+{
+  "id": 4903330,
+  "name": "Nauvoo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.384872,
+      "lat": 40.550041
+  }
+},
+{
+  "id": 4903497,
+  "name": "New Holland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.58094,
+      "lat": 40.184769
+  }
+},
+{
+  "id": 4903535,
+  "name": "New Lenox",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.965607,
+      "lat": 41.511978
+  }
+},
+{
+  "id": 4903565,
+  "name": "New Michigan (historical)",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.742851,
+      "lat": 41.055031
+  }
+},
+{
+  "id": 4903730,
+  "name": "Niles",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.802841,
+      "lat": 42.018921
+  }
+},
+{
+  "id": 4903780,
+  "name": "Normal",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.990631,
+      "lat": 40.514198
+  }
+},
+{
+  "id": 4903803,
+  "name": "Norridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.827278,
+      "lat": 41.96336
+  }
+},
+{
+  "id": 4903818,
+  "name": "North Aurora",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.327301,
+      "lat": 41.806141
+  }
+},
+{
+  "id": 4903830,
+  "name": "North Barrington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.140633,
+      "lat": 42.207802
+  }
+},
+{
+  "id": 4903862,
+  "name": "North Chicago",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.841179,
+      "lat": 42.325581
+  }
+},
+{
+  "id": 4903975,
+  "name": "North Pekin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.622322,
+      "lat": 40.61504
+  }
+},
+{
+  "id": 4903976,
+  "name": "North Peoria",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.584259,
+      "lat": 40.717541
+  }
+},
+{
+  "id": 4904002,
+  "name": "North Riverside",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.823112,
+      "lat": 41.842812
+  }
+},
+{
+  "id": 4904056,
+  "name": "Northbrook",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.828949,
+      "lat": 42.127529
+  }
+},
+{
+  "id": 4904094,
+  "name": "Northfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.780899,
+      "lat": 42.099751
+  }
+},
+{
+  "id": 4904102,
+  "name": "Northlake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.895622,
+      "lat": 41.917252
+  }
+},
+{
+  "id": 4904277,
+  "name": "Oak Brook",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.928947,
+      "lat": 41.832809
+  }
+},
+{
+  "id": 4904286,
+  "name": "Oak Forest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.743942,
+      "lat": 41.60281
+  }
+},
+{
+  "id": 4904365,
+  "name": "Oak Lawn",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.75811,
+      "lat": 41.710869
+  }
+},
+{
+  "id": 4904381,
+  "name": "Oak Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.7845,
+      "lat": 41.885029
+  }
+},
+{
+  "id": 4904407,
+  "name": "Oak Ridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.437592,
+      "lat": 40.811432
+  }
+},
+{
+  "id": 4904447,
+  "name": "Oakbrook Terrace",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.964508,
+      "lat": 41.850029
+  }
+},
+{
+  "id": 4904520,
+  "name": "Oakwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.778358,
+      "lat": 40.11615
+  }
+},
+{
+  "id": 4904543,
+  "name": "Oakwood Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.242859,
+      "lat": 42.24641
+  }
+},
+{
+  "id": 4904574,
+  "name": "Odell",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.525337,
+      "lat": 41.003639
+  }
+},
+{
+  "id": 4904601,
+  "name": "Ogle County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.316772,
+      "lat": 42.03336
+  }
+},
+{
+  "id": 4904605,
+  "name": "Oglesby",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.059532,
+      "lat": 41.295311
+  }
+},
+{
+  "id": 4904793,
+  "name": "Olympia Fields",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.67421,
+      "lat": 41.513371
+  }
+},
+{
+  "id": 4904809,
+  "name": "Onarga",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.006149,
+      "lat": 40.715038
+  }
+},
+{
+  "id": 4904872,
+  "name": "Oquawka",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.94709,
+      "lat": 40.93198
+  }
+},
+{
+  "id": 4904898,
+  "name": "Oregon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.332329,
+      "lat": 42.014751
+  }
+},
+{
+  "id": 4904922,
+  "name": "Orion",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.381523,
+      "lat": 41.354759
+  }
+},
+{
+  "id": 4904934,
+  "name": "Orland Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.843109,
+      "lat": 41.585312
+  }
+},
+{
+  "id": 4904937,
+  "name": "Orland Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.853943,
+      "lat": 41.63031
+  }
+},
+{
+  "id": 4904996,
+  "name": "Oswego",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.351463,
+      "lat": 41.682812
+  }
+},
+{
+  "id": 4905006,
+  "name": "Ottawa",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.842583,
+      "lat": 41.345589
+  }
+},
+{
+  "id": 4905211,
+  "name": "Palatine",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.034241,
+      "lat": 42.110298
+  }
+},
+{
+  "id": 4905232,
+  "name": "Palm Beach",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.197311,
+      "lat": 42.37669
+  }
+},
+{
+  "id": 4905259,
+  "name": "Palos Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.79644,
+      "lat": 41.668091
+  }
+},
+{
+  "id": 4905263,
+  "name": "Palos Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.817001,
+      "lat": 41.696701
+  }
+},
+{
+  "id": 4905265,
+  "name": "Palos Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.83033,
+      "lat": 41.667252
+  }
+},
+{
+  "id": 4905334,
+  "name": "Park City",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.884239,
+      "lat": 42.348358
+  }
+},
+{
+  "id": 4905337,
+  "name": "Park Forest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.674492,
+      "lat": 41.491421
+  }
+},
+{
+  "id": 4905367,
+  "name": "Park Ridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.840622,
+      "lat": 42.011139
+  }
+},
+{
+  "id": 4905509,
+  "name": "Paxton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.095322,
+      "lat": 40.460312
+  }
+},
+{
+  "id": 4905572,
+  "name": "Pecatonica",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.359283,
+      "lat": 42.313911
+  }
+},
+{
+  "id": 4905599,
+  "name": "Pekin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.640663,
+      "lat": 40.567539
+  }
+},
+{
+  "id": 4905687,
+  "name": "Peoria",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.588989,
+      "lat": 40.693649
+  }
+},
+{
+  "id": 4905697,
+  "name": "Peoria County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.766769,
+      "lat": 40.766701
+  }
+},
+{
+  "id": 4905704,
+  "name": "Peoria Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.573982,
+      "lat": 40.747261
+  }
+},
+{
+  "id": 4905724,
+  "name": "Peotone",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.785316,
+      "lat": 41.33226
+  }
+},
+{
+  "id": 4905762,
+  "name": "Perryville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.979553,
+      "lat": 42.221691
+  }
+},
+{
+  "id": 4905770,
+  "name": "Peru",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.128967,
+      "lat": 41.32753
+  }
+},
+{
+  "id": 4905791,
+  "name": "Petersburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.848167,
+      "lat": 40.011719
+  }
+},
+{
+  "id": 4905866,
+  "name": "Philo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.158096,
+      "lat": 40.006981
+  }
+},
+{
+  "id": 4905873,
+  "name": "Phoenix",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.634773,
+      "lat": 41.611149
+  }
+},
+{
+  "id": 4906035,
+  "name": "Pingree Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.413422,
+      "lat": 42.068642
+  }
+},
+{
+  "id": 4906087,
+  "name": "Pistakee Highlands",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.206482,
+      "lat": 42.40863
+  }
+},
+{
+  "id": 4906125,
+  "name": "Plainfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.203949,
+      "lat": 41.626968
+  }
+},
+{
+  "id": 4906143,
+  "name": "Plano",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.537018,
+      "lat": 41.662811
+  }
+},
+{
+  "id": 4906421,
+  "name": "Polo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.579277,
+      "lat": 41.986141
+  }
+},
+{
+  "id": 4906438,
+  "name": "Pontiac",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.629784,
+      "lat": 40.880871
+  }
+},
+{
+  "id": 4906482,
+  "name": "Poplar Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.822052,
+      "lat": 42.368351
+  }
+},
+{
+  "id": 4906490,
+  "name": "Port Barrington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.202026,
+      "lat": 42.242519
+  }
+},
+{
+  "id": 4906491,
+  "name": "Port Byron",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.335411,
+      "lat": 41.606419
+  }
+},
+{
+  "id": 4906527,
+  "name": "Posen",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.681442,
+      "lat": 41.631699
+  }
+},
+{
+  "id": 4906641,
+  "name": "Prairie Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.260918,
+      "lat": 42.278629
+  }
+},
+{
+  "id": 4906802,
+  "name": "Preston Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.081718,
+      "lat": 41.491699
+  }
+},
+{
+  "id": 4906818,
+  "name": "Princeton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.464813,
+      "lat": 41.368092
+  }
+},
+{
+  "id": 4906824,
+  "name": "Princeville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.757599,
+      "lat": 40.92976
+  }
+},
+{
+  "id": 4906868,
+  "name": "Prophetstown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.936218,
+      "lat": 41.671421
+  }
+},
+{
+  "id": 4906882,
+  "name": "Prospect Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.937569,
+      "lat": 42.095299
+  }
+},
+{
+  "id": 4907131,
+  "name": "Rantoul",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.155884,
+      "lat": 40.308369
+  }
+},
+{
+  "id": 4907504,
+  "name": "Richmond",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.305931,
+      "lat": 42.475849
+  }
+},
+{
+  "id": 4907505,
+  "name": "Richmond",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.36898,
+      "lat": 40.36087
+  }
+},
+{
+  "id": 4907514,
+  "name": "Richton Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.703377,
+      "lat": 41.484482
+  }
+},
+{
+  "id": 4907637,
+  "name": "River Forest",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.81395,
+      "lat": 41.897812
+  }
+},
+{
+  "id": 4907649,
+  "name": "River Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.835892,
+      "lat": 41.925861
+  }
+},
+{
+  "id": 4907683,
+  "name": "Riverdale",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.633102,
+      "lat": 41.633369
+  }
+},
+{
+  "id": 4907706,
+  "name": "Riverside",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.822838,
+      "lat": 41.83503
+  }
+},
+{
+  "id": 4907762,
+  "name": "Riverwoods",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.897011,
+      "lat": 42.16753
+  }
+},
+{
+  "id": 4907773,
+  "name": "Roanoke",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.197304,
+      "lat": 40.79615
+  }
+},
+{
+  "id": 4907786,
+  "name": "Robbins",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.703659,
+      "lat": 41.643921
+  }
+},
+{
+  "id": 4907863,
+  "name": "Rochelle",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.06871,
+      "lat": 41.92392
+  }
+},
+{
+  "id": 4907898,
+  "name": "Rock Falls",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.689003,
+      "lat": 41.779751
+  }
+},
+{
+  "id": 4907907,
+  "name": "Rock Island",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.578751,
+      "lat": 41.50948
+  }
+},
+{
+  "id": 4907910,
+  "name": "Rock Island County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.5168,
+      "lat": 41.450031
+  }
+},
+{
+  "id": 4907953,
+  "name": "Rockdale",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.114502,
+      "lat": 41.506142
+  }
+},
+{
+  "id": 4907959,
+  "name": "Rockford",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.094002,
+      "lat": 42.27113
+  }
+},
+{
+  "id": 4907985,
+  "name": "Rockton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.072327,
+      "lat": 42.452518
+  }
+},
+{
+  "id": 4908052,
+  "name": "Rolling Meadows",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.01313,
+      "lat": 42.08419
+  }
+},
+{
+  "id": 4908066,
+  "name": "Rome",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.502586,
+      "lat": 40.883091
+  }
+},
+{
+  "id": 4908068,
+  "name": "Romeoville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.089508,
+      "lat": 41.64753
+  }
+},
+{
+  "id": 4908126,
+  "name": "Roscoe",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.00927,
+      "lat": 42.413349
+  }
+},
+{
+  "id": 4908173,
+  "name": "Roselle",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.079788,
+      "lat": 41.984749
+  }
+},
+{
+  "id": 4908179,
+  "name": "Rosemont",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.884506,
+      "lat": 41.995312
+  }
+},
+{
+  "id": 4908209,
+  "name": "Rossville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.668633,
+      "lat": 40.3792
+  }
+},
+{
+  "id": 4908236,
+  "name": "Round Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.093407,
+      "lat": 42.353359
+  }
+},
+{
+  "id": 4908237,
+  "name": "Round Lake Beach",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.09008,
+      "lat": 42.371689
+  }
+},
+{
+  "id": 4908242,
+  "name": "Round Lake Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.104248,
+      "lat": 42.38002
+  }
+},
+{
+  "id": 4908243,
+  "name": "Round Lake Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.076752,
+      "lat": 42.356972
+  }
+},
+{
+  "id": 4908321,
+  "name": "Rushville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.563179,
+      "lat": 40.121159
+  }
+},
+{
+  "id": 4908543,
+  "name": "Saint Anne",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.713921,
+      "lat": 41.025028
+  }
+},
+{
+  "id": 4908737,
+  "name": "Saint Charles",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.308693,
+      "lat": 41.914188
+  }
+},
+{
+  "id": 4909268,
+  "name": "Saint Joseph",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.041702,
+      "lat": 40.111698
+  }
+},
+{
+  "id": 4910543,
+  "name": "Sandwich",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.621742,
+      "lat": 41.645859
+  }
+},
+{
+  "id": 4910634,
+  "name": "Sauk Village",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.567543,
+      "lat": 41.488369
+  }
+},
+{
+  "id": 4910652,
+  "name": "Savanna",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.156792,
+      "lat": 42.094471
+  }
+},
+{
+  "id": 4910663,
+  "name": "Savoy",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.251717,
+      "lat": 40.054749
+  }
+},
+{
+  "id": 4910713,
+  "name": "Schaumburg",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.083412,
+      "lat": 42.03336
+  }
+},
+{
+  "id": 4910743,
+  "name": "Schiller Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.870903,
+      "lat": 41.95586
+  }
+},
+{
+  "id": 4911041,
+  "name": "Sellers",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.104759,
+      "lat": 40.18642
+  }
+},
+{
+  "id": 4911059,
+  "name": "Seneca",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.609787,
+      "lat": 41.311138
+  }
+},
+{
+  "id": 4911259,
+  "name": "Sheldon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.563919,
+      "lat": 40.769199
+  }
+},
+{
+  "id": 4911289,
+  "name": "Sheridan",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.679802,
+      "lat": 41.530029
+  }
+},
+{
+  "id": 4911382,
+  "name": "Shirland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.197609,
+      "lat": 42.444462
+  }
+},
+{
+  "id": 4911418,
+  "name": "Shorewood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.201729,
+      "lat": 41.520031
+  }
+},
+{
+  "id": 4911455,
+  "name": "Sidney",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.073372,
+      "lat": 40.025028
+  }
+},
+{
+  "id": 4911516,
+  "name": "Silvis",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.415131,
+      "lat": 41.51226
+  }
+},
+{
+  "id": 4911600,
+  "name": "Skokie",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.733391,
+      "lat": 42.03336
+  }
+},
+{
+  "id": 4911640,
+  "name": "Sleepy Hollow",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.302582,
+      "lat": 42.094189
+  }
+},
+{
+  "id": 4911802,
+  "name": "Somonauk",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.68119,
+      "lat": 41.63364
+  }
+},
+{
+  "id": 4911825,
+  "name": "South Barrington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.121742,
+      "lat": 42.091419
+  }
+},
+{
+  "id": 4911830,
+  "name": "South Beloit",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.036781,
+      "lat": 42.493069
+  }
+},
+{
+  "id": 4911868,
+  "name": "South Chicago Heights",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.637817,
+      "lat": 41.480869
+  }
+},
+{
+  "id": 4911893,
+  "name": "South Elgin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.292297,
+      "lat": 41.99419
+  }
+},
+{
+  "id": 4911916,
+  "name": "South Freeport",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.572609,
+      "lat": 42.24086
+  }
+},
+{
+  "id": 4911934,
+  "name": "South Holland",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.606987,
+      "lat": 41.600868
+  }
+},
+{
+  "id": 4911982,
+  "name": "South Pekin",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.651772,
+      "lat": 40.49448
+  }
+},
+{
+  "id": 4912248,
+  "name": "Spring Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.236481,
+      "lat": 42.44363
+  }
+},
+{
+  "id": 4912303,
+  "name": "Spring Valley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.199806,
+      "lat": 41.327541
+  }
+},
+{
+  "id": 4912398,
+  "name": "Stark County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.800102,
+      "lat": 41.10004
+  }
+},
+{
+  "id": 4912474,
+  "name": "Steger",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.636429,
+      "lat": 41.470032
+  }
+},
+{
+  "id": 4912492,
+  "name": "Stephenson County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.666779,
+      "lat": 42.350021
+  }
+},
+{
+  "id": 4912499,
+  "name": "Sterling",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.69622,
+      "lat": 41.788639
+  }
+},
+{
+  "id": 4912555,
+  "name": "Stickney",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.782829,
+      "lat": 41.821419
+  }
+},
+{
+  "id": 4912566,
+  "name": "Stillman Valley",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.179268,
+      "lat": 42.10725
+  }
+},
+{
+  "id": 4912583,
+  "name": "Stockton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.00679,
+      "lat": 42.349739
+  }
+},
+{
+  "id": 4912602,
+  "name": "Stone Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.883667,
+      "lat": 41.90559
+  }
+},
+{
+  "id": 4912691,
+  "name": "Streamwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.178413,
+      "lat": 42.025581
+  }
+},
+{
+  "id": 4912698,
+  "name": "Streator",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.83535,
+      "lat": 41.120869
+  }
+},
+{
+  "id": 4912783,
+  "name": "Sugar Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.443687,
+      "lat": 41.761421
+  }
+},
+{
+  "id": 4912845,
+  "name": "Summit",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.810333,
+      "lat": 41.78809
+  }
+},
+{
+  "id": 4913005,
+  "name": "Surrey",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.468193,
+      "lat": 40.911701
+  }
+},
+{
+  "id": 4913110,
+  "name": "Sycamore",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.686752,
+      "lat": 41.988918
+  }
+},
+{
+  "id": 4913271,
+  "name": "Tazewell County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.550102,
+      "lat": 40.533371
+  }
+},
+{
+  "id": 4913515,
+  "name": "Third Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.01091,
+      "lat": 42.373909
+  }
+},
+{
+  "id": 4913555,
+  "name": "Thomasboro",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.184212,
+      "lat": 40.241699
+  }
+},
+{
+  "id": 4913605,
+  "name": "Thornton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.608101,
+      "lat": 41.568089
+  }
+},
+{
+  "id": 4913666,
+  "name": "Tilton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.647522,
+      "lat": 40.09531
+  }
+},
+{
+  "id": 4913723,
+  "name": "Tinley Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.784492,
+      "lat": 41.573372
+  }
+},
+{
+  "id": 4913760,
+  "name": "Toluca",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.133423,
+      "lat": 41.002258
+  }
+},
+{
+  "id": 4913764,
+  "name": "Tomahawk Bluff",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.08342,
+      "lat": 41.380589
+  }
+},
+{
+  "id": 4913799,
+  "name": "Toulon",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.86483,
+      "lat": 41.093651
+  }
+},
+{
+  "id": 4913816,
+  "name": "Tower Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.152023,
+      "lat": 42.231972
+  }
+},
+{
+  "id": 4913892,
+  "name": "Tremont",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.492599,
+      "lat": 40.527538
+  }
+},
+{
+  "id": 4914065,
+  "name": "Triumph",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.022034,
+      "lat": 41.499481
+  }
+},
+{
+  "id": 4914209,
+  "name": "Twin Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.079803,
+      "lat": 40.49337
+  }
+},
+{
+  "id": 4914570,
+  "name": "Urbana",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.207268,
+      "lat": 40.110592
+  }
+},
+{
+  "id": 4914628,
+  "name": "Valley View",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.966209,
+      "lat": 42.222801
+  }
+},
+{
+  "id": 4914704,
+  "name": "Venetian Village",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.052582,
+      "lat": 42.398628
+  }
+},
+{
+  "id": 4914710,
+  "name": "Vermilion County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.75058,
+      "lat": 40.166698
+  }
+},
+{
+  "id": 4914738,
+  "name": "Vernon Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.965134,
+      "lat": 42.21809
+  }
+},
+{
+  "id": 4914830,
+  "name": "Villa Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.988953,
+      "lat": 41.889751
+  }
+},
+{
+  "id": 4914934,
+  "name": "Volo",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.167862,
+      "lat": 42.32613
+  }
+},
+{
+  "id": 4915294,
+  "name": "Wadsworth",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.923973,
+      "lat": 42.428631
+  }
+},
+{
+  "id": 4915397,
+  "name": "Walnut",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.59343,
+      "lat": 41.556702
+  }
+},
+{
+  "id": 4915497,
+  "name": "Warren",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.989571,
+      "lat": 42.496399
+  }
+},
+{
+  "id": 4915502,
+  "name": "Warren County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -90.616798,
+      "lat": 40.85004
+  }
+},
+{
+  "id": 4915525,
+  "name": "Warrenville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.173401,
+      "lat": 41.81781
+  }
+},
+{
+  "id": 4915533,
+  "name": "Warsaw",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -91.434601,
+      "lat": 40.359211
+  }
+},
+{
+  "id": 4915543,
+  "name": "Washburn",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.291199,
+      "lat": 40.919201
+  }
+},
+{
+  "id": 4915545,
+  "name": "Washington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.40731,
+      "lat": 40.703651
+  }
+},
+{
+  "id": 4915683,
+  "name": "Waterman",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.773689,
+      "lat": 41.771702
+  }
+},
+{
+  "id": 4915695,
+  "name": "Watertown",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.294548,
+      "lat": 41.98531
+  }
+},
+{
+  "id": 4915703,
+  "name": "Watseka",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.73642,
+      "lat": 40.77615
+  }
+},
+{
+  "id": 4915725,
+  "name": "Wauconda",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.139252,
+      "lat": 42.258911
+  }
+},
+{
+  "id": 4915734,
+  "name": "Waukegan",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.844788,
+      "lat": 42.363628
+  }
+},
+{
+  "id": 4915764,
+  "name": "Wayne",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.242302,
+      "lat": 41.950859
+  }
+},
+{
+  "id": 4915794,
+  "name": "Webster",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.60392,
+      "lat": 40.773651
+  }
+},
+{
+  "id": 4915884,
+  "name": "Wenona",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.050362,
+      "lat": 41.052528
+  }
+},
+{
+  "id": 4915963,
+  "name": "West Chicago",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.203957,
+      "lat": 41.88475
+  }
+},
+{
+  "id": 4915977,
+  "name": "West Dundee",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.28286,
+      "lat": 42.09808
+  }
+},
+{
+  "id": 4916008,
+  "name": "West Hallock",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.639259,
+      "lat": 40.920872
+  }
+},
+{
+  "id": 4916055,
+  "name": "West Peoria",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.627876,
+      "lat": 40.692539
+  }
+},
+{
+  "id": 4916140,
+  "name": "Westchester",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.882004,
+      "lat": 41.85059
+  }
+},
+{
+  "id": 4916161,
+  "name": "Western Springs",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.90062,
+      "lat": 41.80975
+  }
+},
+{
+  "id": 4916207,
+  "name": "Westmont",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.975616,
+      "lat": 41.79586
+  }
+},
+{
+  "id": 4916252,
+  "name": "Westville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.638634,
+      "lat": 40.042259
+  }
+},
+{
+  "id": 4916288,
+  "name": "Wheaton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.10701,
+      "lat": 41.866138
+  }
+},
+{
+  "id": 4916311,
+  "name": "Wheeling",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.928963,
+      "lat": 42.139191
+  }
+},
+{
+  "id": 4916416,
+  "name": "White Willow (historical)",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.384789,
+      "lat": 41.474751
+  }
+},
+{
+  "id": 4916434,
+  "name": "Whiteside County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.916779,
+      "lat": 41.750591
+  }
+},
+{
+  "id": 4916470,
+  "name": "Wichert",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.704201,
+      "lat": 41.057259
+  }
+},
+{
+  "id": 4916565,
+  "name": "Will County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.966721,
+      "lat": 41.433369
+  }
+},
+{
+  "id": 4916698,
+  "name": "Willow Springs",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.860329,
+      "lat": 41.740871
+  }
+},
+{
+  "id": 4916709,
+  "name": "Willowbrook",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.93589,
+      "lat": 41.769749
+  }
+},
+{
+  "id": 4916710,
+  "name": "Willowbrook",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.53643,
+      "lat": 41.457809
+  }
+},
+{
+  "id": 4916732,
+  "name": "Wilmette",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.722839,
+      "lat": 42.07225
+  }
+},
+{
+  "id": 4916740,
+  "name": "Wilmington",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.146721,
+      "lat": 41.307812
+  }
+},
+{
+  "id": 4916785,
+  "name": "Wilton",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.934219,
+      "lat": 41.379478
+  }
+},
+{
+  "id": 4916826,
+  "name": "Winfield",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.160896,
+      "lat": 41.861698
+  }
+},
+{
+  "id": 4916843,
+  "name": "Winnebago",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.241219,
+      "lat": 42.266129
+  }
+},
+{
+  "id": 4916845,
+  "name": "Winnebago County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.183441,
+      "lat": 42.350021
+  }
+},
+{
+  "id": 4916891,
+  "name": "Winnetka",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.735901,
+      "lat": 42.108082
+  }
+},
+{
+  "id": 4916894,
+  "name": "Winthrop Harbor",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.823677,
+      "lat": 42.478909
+  }
+},
+{
+  "id": 4916973,
+  "name": "Wonder Lake",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.347313,
+      "lat": 42.3853
+  }
+},
+{
+  "id": 4916975,
+  "name": "Wood Dale",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.978958,
+      "lat": 41.96336
+  }
+},
+{
+  "id": 4917010,
+  "name": "Woodford County",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.233421,
+      "lat": 40.766701
+  }
+},
+{
+  "id": 4917089,
+  "name": "Woodridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.050339,
+      "lat": 41.746971
+  }
+},
+{
+  "id": 4917123,
+  "name": "Woodstock",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.4487,
+      "lat": 42.314739
+  }
+},
+{
+  "id": 4917171,
+  "name": "Worth",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.797279,
+      "lat": 41.689751
+  }
+},
+{
+  "id": 4917218,
+  "name": "Wyoming",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.773163,
+      "lat": 41.061699
+  }
+},
+{
+  "id": 4917268,
+  "name": "Yeoward Addition",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.66066,
+      "lat": 41.758091
+  }
+},
+{
+  "id": 4917298,
+  "name": "Yorkville",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.447289,
+      "lat": 41.64114
+  }
+},
+{
+  "id": 4917358,
+  "name": "Zion",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.832848,
+      "lat": 42.446129
+  }
+},
+{
+  "id": 6331966,
+  "name": "Wood Oaks Glen",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -87.884171,
+      "lat": 42.125561
+  }
+},
+{
+  "id": 6620954,
+  "name": "Ketura",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.061298,
+      "lat": 29.9702
+  }
+},
+{
+  "id": 6693244,
+  "name": "Lehavim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.816189,
+      "lat": 31.372841
+  }
+},
+{
+  "id": 6693674,
+  "name": "Petah Tikva",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.885029,
+      "lat": 32.09174
+  }
+},
+{
+  "id": 6693679,
+  "name": "Modiin",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.999008,
+      "lat": 31.90729
+  }
+},
+{
+  "id": 6929924,
+  "name": "Midreshet Ben-Gurion",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.783401,
+      "lat": 30.85154
+  }
+},
+{
+  "id": 6930979,
+  "name": "Village of Campton Hills",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.397499,
+      "lat": 41.9366
+  }
+},
+{
+  "id": 6945291,
+  "name": "Old City",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.234169,
+      "lat": 31.77667
+  }
+},
+{
+  "id": 7117228,
+  "name": "Caesarea",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.904591,
+      "lat": 32.518879
+  }
+},
+{
+  "id": 7151168,
+  "name": "Springwood",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.170563,
+      "lat": 41.511391
+  }
+},
+{
+  "id": 7151300,
+  "name": "Liberty Grove",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.230278,
+      "lat": 41.613892
+  }
+},
+{
+  "id": 7151323,
+  "name": "Nottingham Ridge",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.089439,
+      "lat": 41.626389
+  }
+},
+{
+  "id": 7259489,
+  "name": "Scott Air Force Base",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.850349,
+      "lat": 38.542702
+  }
+},
+{
+  "id": 7498240,
+  "name": "West Jerusalem",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.219608,
+      "lat": 31.78199
+  }
+},
+{
+  "id": 7728041,
+  "name": "Enchanted Gardens Mobile Home Park",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -89.265556,
+      "lat": 40.710281
+  }
+},
+{
+  "id": 7728111,
+  "name": "Marion Mobile Home Village",
+  "state": "IL",
+  "country": "US",
+  "coord": {
+      "lon": -88.908333,
+      "lat": 37.72472
+  }
+},
+{
+  "id": 8072868,
+  "name": "Merkaz Shapira",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.707039,
+      "lat": 31.696421
+  }
+},
+{
+  "id": 8199378,
+  "name": "Modiin Ilit",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.044159,
+      "lat": 31.932211
+  }
+},
+{
+  "id": 8199379,
+  "name": "Nof Ayalon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.99081,
+      "lat": 31.871111
+  }
+},
+{
+  "id": 8199382,
+  "name": "Hashmonaim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.0215,
+      "lat": 31.929729
+  }
+},
+{
+  "id": 8199383,
+  "name": "Lapid",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.032219,
+      "lat": 31.917641
+  }
+},
+{
+  "id": 8199384,
+  "name": "Kfar NaOranim",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.03669,
+      "lat": 31.919821
+  }
+},
+{
+  "id": 8199385,
+  "name": "Mevo horon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.035831,
+      "lat": 31.848761
+  }
+},
+{
+  "id": 8199386,
+  "name": "Givat Zeev",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.16861,
+      "lat": 31.86145
+  }
+},
+{
+  "id": 8199387,
+  "name": "Beit Horon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.12999,
+      "lat": 31.875811
+  }
+},
+{
+  "id": 8199389,
+  "name": "Na'ale",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.065529,
+      "lat": 31.96236
+  }
+},
+{
+  "id": 8199390,
+  "name": "Giv'on HaHadasha",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.16106,
+      "lat": 31.84927
+  }
+},
+{
+  "id": 8199392,
+  "name": "Talmon",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.135391,
+      "lat": 31.93927
+  }
+},
+{
+  "id": 8199393,
+  "name": "Dolev",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.13393,
+      "lat": 31.92609
+  }
+},
+{
+  "id": 8199394,
+  "name": "Ariel",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.18449,
+      "lat": 32.106499
+  }
+},
+{
+  "id": 8199420,
+  "name": "Oranit",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.99094,
+      "lat": 32.131649
+  }
+},
+{
+  "id": 8199421,
+  "name": "Nirit",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 34.986221,
+      "lat": 32.14677
+  }
+},
+{
+  "id": 8199422,
+  "name": "Revava",
+  "state": "",
+  "country": "IL",
+  "coord": {
+      "lon": 35.12896,
+      "lat": 32.119259
+  }
+}]

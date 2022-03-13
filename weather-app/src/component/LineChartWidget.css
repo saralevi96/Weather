@@ -1,0 +1,10 @@
+.lineChart-widget-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.lineChart-widget {
+  display: flex;
+  max-width: 250px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}

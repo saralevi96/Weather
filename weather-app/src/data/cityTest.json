@@ -1,0 +1,202 @@
+[
+  {
+    "id": 833,
+    "name": "Tel-Aviv",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 47.159401,
+      "lat": 34.330502
+    }
+  },
+  {
+    "id": 2960,
+    "name": "Natanya",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.321911,
+      "lat": 34.940079
+    }
+  },
+  {
+    "id": 3245,
+    "name": "Taglag",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 44.98333,
+      "lat": 38.450001
+    }
+  },
+  {
+    "id": 3530,
+    "name": "Haifa",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 46.168499,
+      "lat": 36.173302
+    }
+  },
+  {
+    "id": 5174,
+    "name": "Eilat",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.48336,
+      "lat": 32.889809
+    }
+  },
+  {
+    "id": 833,
+    "name": "g",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 47.159401,
+      "lat": 34.330502
+    }
+  },
+  {
+    "id": 2960,
+    "name": "h",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.321911,
+      "lat": 34.940079
+    }
+  },
+  {
+    "id": 3245,
+    "name": "j",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 44.98333,
+      "lat": 38.450001
+    }
+  },
+  {
+    "id": 3530,
+    "name": "k",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 46.168499,
+      "lat": 36.173302
+    }
+  },
+  {
+    "id": 5174,
+    "name": "l",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.48336,
+      "lat": 32.889809
+    }
+  },
+  {
+    "id": 833,
+    "name": "p",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 47.159401,
+      "lat": 34.330502
+    }
+  },
+  {
+    "id": 2960,
+    "name": "o",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.321911,
+      "lat": 34.940079
+    }
+  },
+  {
+    "id": 3245,
+    "name": "i",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 44.98333,
+      "lat": 38.450001
+    }
+  },
+  {
+    "id": 3530,
+    "name": "u",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 46.168499,
+      "lat": 36.173302
+    }
+  },
+  {
+    "id": 5174,
+    "name": "y",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.48336,
+      "lat": 32.889809
+    }
+  },
+  {
+    "id": 833,
+    "name": "t",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 47.159401,
+      "lat": 34.330502
+    }
+  },
+  {
+    "id": 2960,
+    "name": "w",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.321911,
+      "lat": 34.940079
+    }
+  },
+  {
+    "id": 3245,
+    "name": "r",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 44.98333,
+      "lat": 38.450001
+    }
+  },
+  {
+    "id": 3530,
+    "name": "e",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 46.168499,
+      "lat": 36.173302
+    }
+  },
+  {
+    "id": 5174,
+    "name": "q",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.48336,
+      "lat": 32.889809
+    }
+  }
+]

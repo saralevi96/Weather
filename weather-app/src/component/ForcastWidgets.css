@@ -1,0 +1,24 @@
+.forcast-widgets-wrapper {
+  margin-left: 5%;
+}
+.bar-page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-right: 400px;
+}
+.description {
+  margin-top: 30px;
+  display: flex;
+  max-height: 3;
+  flex-direction: column;
+}
+.without-margin {
+  margin: 2px;
+  height: 24px;
+}
+/* .img {
+  width: 10%;
+  height: auto;
+} */
