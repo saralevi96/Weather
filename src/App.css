@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.forcast-dashboards-wrapper {
+  flex: 23;
+}

@@ -1,9 +1,18 @@
 import React, { useState } from 'react';
 import './App.css';
-
 import { ForcastWidgets } from './component/ForcastWidgets';
 import CitySelector from './component/SearchCity';
 import { fetchForcast } from './function/forcastApi';
+import styled from "styled-components";
+
+const CitySelectorWrapper = styled.div `{
+    background-color: rgb(150, 190, 255);
+    background-repeat: no-repeat;
+    background-size: 2002px 250px;
+    padding: 10px;
+    flex: 1;
+}`
+
 function App() {
   const [city, setCity] = useState<string>('');
   const [forcast, setForcast] = useState<Forcast | null>(null);
@@ -12,13 +21,13 @@ function App() {
     setForcast(await fetchForcast(city));
   };
 
-  console.log(`forcast`, forcast);
+  console.log(`forcast2`, forcast);
 
   return (
     <div className="app">
-      <div className="city-selector-wrapper">
+      <CitySelectorWrapper>
         <CitySelector updateCity={updatecity} city={city} />
-      </div>
+      </CitySelectorWrapper>
       <div className="forcast-dashboards-wrapper">
         {forcast && <ForcastWidgets forcast={forcast} />}
       </div>
