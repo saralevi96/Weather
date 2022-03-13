@@ -12,7 +12,7 @@ function App() {
     setForcast(await fetchForcast(city));
   };
 
-  console.log(`forcast app`, forcast);
+  console.log(`forcast`, forcast);
 
   return (
     <div className="app">
