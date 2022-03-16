@@ -11,12 +11,15 @@ export const fetchForcast = async (city: string | null) => {
     console.log(`fetch forcast data`, data);
     const weather = data.list.map((listItem) => ({
       date: listItem.dt_txt,
-      temperature: Number((listItem.main.temp - 273.15).toFixed(2)),
+      temperature: Number((listItem.main.temp - 273.15).toFixed(2))
     }));
+    console.log(`api`)
+    console.log(weather)
     return {
       city: data.city.name,
       weather,
       descriptionToday: data.list[0].weather[0].main,
+      iconId:data.list[0].weather[0].icon
     };
   } catch {
     console.error('error');

@@ -1,11 +1,13 @@
-type Forcast = { 
+type Forecast = {
     city : string,
     descriptionToday:string,
-    weather:Weather
+    weather:Weather,
+    iconId:string
 }|null
 
-type Weather = { 
+type Weather = {
     date: string,
-    temperature: number
-    
+    temperature: number,
+    temperatureMin?:number
+    temperatureMax?:number
 }[]

@@ -10,11 +10,23 @@ import { getCurrentCity } from '../function/getCurrentCity2';
 import Button from '@mui/material/Button';
 import { useState } from 'react';
 import { Block, Tune } from '@mui/icons-material';
-import './SearchCity.css';
+
 import Stack from '@mui/material/Stack';
 import IconButton from '@mui/material/IconButton';
 import DeleteIcon from '@mui/icons-material/Delete';
 import Box from '@mui/material/Box';
+import {
+  SearchCityWrapper,
+  SearchCityStyle,
+  ShowFavoriteListCity,
+  ShowFavoriteCity,
+  SelectCity,
+  ShowFavoriteCitys,
+  BoxStyle
+} from "./SearchCityStyle";
+
+
+
 
 const CitiesTemp: any = CITIES;
 const CITIES_NAMES: string[] = CitiesTemp.map(
@@ -87,9 +99,9 @@ export default function SearchCity(props: {
   ];
 
   return (
-    <div className="search-city-wrapper">
-      <div className="select-city">
-        <div className="search-city">
+    <SearchCityWrapper>
+      <SelectCity >
+        <SearchCityStyle>
           <Autocomplete
             onChange={(event: any, newValue: string | null) => {
               if (newValue !== null) {
@@ -142,29 +154,21 @@ export default function SearchCity(props: {
           >
             current location
           </Button>
-        </div>
+        </SearchCityStyle>
         {showFavoriteButton && (
           <FavoriteCity
             city={inputValue}
             toggelCity={toggleCity}
             favoriteCities={favoriteCities}
-          ></FavoriteCity>
+          />
         )}
-      </div>
-      <div className="show-favorite-citys">
+      </SelectCity>
+      <ShowFavoriteCitys>
         <h1 style={{ color: 'white' }}>favorite city</h1>
-        <Box
-          className="box"
-          sx={{
-            width: '100%',
-            height: 250,
-            maxWidth: 360,
-            bgcolor: 'background.paper',
-          }}
-        >
-          <div className="show-favorite-listCity">
+        <BoxStyle>
+          <ShowFavoriteListCity>
             {favoriteCities.map((favoriteCity) => (
-              <div className="showFavoriteCity">
+              <ShowFavoriteCity>
                 <IconButton
                   onClick={() => {
                     deleteFavoriteCity(favoriteCity);
@@ -181,11 +185,11 @@ export default function SearchCity(props: {
                 >
                   {favoriteCity}
                 </Button>
-              </div>
+              </ShowFavoriteCity>
             ))}
-          </div>
-        </Box>
-      </div>
-    </div>
+          </ShowFavoriteListCity>
+        </BoxStyle>
+      </ShowFavoriteCitys>
+    </SearchCityWrapper>
   );
 }

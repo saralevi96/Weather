@@ -3,9 +3,21 @@ import Box from '@mui/material/Box';
 import Tabs from '@mui/material/Tabs';
 import Tab from '@mui/material/Tab';
 import _ from 'lodash';
-import { ForcastLineChart } from './ForcastLineChart';
+import { ForecastLineChart } from './ForecastLineChart';
 import { FunctionComponent } from 'react';
-import './LineChartWidget.css';
+import styled from "styled-components";
+
+const LineChartWidgetWrapper = styled.div`{
+    display: flex;
+    flex-direction: column;
+}`
+const LineChart = styled.div`{
+    display: flex;
+    max-width: 250px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}`
+
 
 enum Granularity {
   Daily,
@@ -22,40 +34,60 @@ export const LineChartWidget: FunctionComponent<
   const [granularity, setGranularity] = React.useState(
     Granularity.ThreeHours,
   );
+  //
+  // const weatherDayGroup = _.groupBy(weather, (w) =>
+  //   new Date(w.date).toDateString(),
+  // );
+  // console.log(`weatherDayGroup`)
+  //   console.log(weatherDayGroup)
 
+  // const weatherDay: Weather = Object.keys(weatherDayGroup).map(
+  //   (dailyDate) => ({
+  //     date: dailyDate,
+  //     temperature: _.meanBy(
+  //       weatherDayGroup[dailyDate],
+  //       'temperature')
+  //   })
+  // );
+  // _____________________________________
   const weatherDayGroup = _.groupBy(weather, (w) =>
-    new Date(w.date).toDateString(),
+      new Date(w.date).toDateString(),
   );
-  const weatherDay: Weather = Object.keys(weatherDayGroup).map(
-    (dailyDate) => ({
-      date: dailyDate,
-      temperature: _.meanBy(
-        weatherDayGroup[dailyDate],
-        'temperature',
-      ),
-    }),
+  const timeNight = [18,21,0,3]
+  const timeMorning = [6,9,12,15]
+  const weatherNight:Weather= (weather.filter(item => timeNight.includes(new Date(item.date).getHours())))
+  const weatherNightDayGroup = _.groupBy(weatherNight, (w) =>
+      new Date(w.date).toDateString(),
   );
-  // let dailyDate = weather[0].dailyDate;
-  // let counter = 1;
-  // let sumTemp = weather[0].temperature;
-  // let WeatherDay: Weather = [];
-  // for (let index = 1; index < weather.length; index++) {
-  //   if (weather[index].dailyDate == dailyDate) {
-  //     counter++;
-  //     sumTemp += weather[index].temperature;
-  //   } else {
-  //     WeatherDay.push({
-  //       date: dailyDate,
-  //       dailyDate: dailyDate,
-  //       temperature: sumTemp / counter,
-  //     });
-  //     dailyDate = weather[index].dailyDate;
-  //     counter = 1;
-  //     sumTemp = weather[index].temperature;
-  //   }
-  // }
+    const weatherMorning:Weather= (weather.filter(item => timeMorning.includes(new Date(item.date).getHours())))
+    const weatherMorningDayGroup = _.groupBy(weatherMorning, (w) =>
+        new Date(w.date).toDateString(),);
 
-  console.log(weatherDay);
+  // const weatherMorningDayGroup = _.groupBy(weather, (w) =>
+  //     new Date(w.date).toDateString(),
+  // );
+  const MeanWeatherDay=(weatherGroup)=>{return ( Object.keys(weatherGroup).map(
+      (dailyDate) => ({
+        date: dailyDate,
+        temperature: _.meanBy(
+            weatherGroup[dailyDate],
+            'temperature').toFixed(2),
+        temperatureMin:_.meanBy(
+            weatherNightDayGroup[dailyDate],
+            'temperature').toFixed(2),
+      temperatureMax:_.meanBy(
+          weatherMorningDayGroup[dailyDate],
+          'temperature').toFixed(2),
+      })
+  ))}
+
+  const weatherDay:Weather = MeanWeatherDay(weatherDayGroup)
+  // const weatherMinDay:Weather = MeanWeatherDay(weatherEveningDayGroup)
+// ________________________________
+
+
+  console.log(`weatherDay`);
+  console.log(weatherDay)
   const handleChange = (
     event: React.SyntheticEvent,
     newGranularity: Granularity,
@@ -64,15 +96,15 @@ export const LineChartWidget: FunctionComponent<
   };
 
   return (
-    <div className="lineChart-widget-wrapper">
-      <div className="lineChart-widget">
+    <LineChartWidgetWrapper>
+      <LineChart>
         <Tabs value={granularity} onChange={handleChange} centered>
           <Tab value={Granularity.ThreeHours} label="Every 3 hours" />
           <Tab value={Granularity.Daily} label="Day" />
         </Tabs>
-      </div>
+      </LineChart>
       <Box>
-        <ForcastLineChart
+        <ForecastLineChart
           weather={
             Granularity.ThreeHours == granularity
               ? weather
@@ -80,6 +112,6 @@ export const LineChartWidget: FunctionComponent<
           }
         />
       </Box>
-    </div>
+    </LineChartWidgetWrapper>
   );
 };
