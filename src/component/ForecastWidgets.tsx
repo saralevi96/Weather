@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { LineChartWidget } from "./LineChartWidget";
 import CalendarMonthIcon from "@mui/icons-material/CalendarMonth";
 import DeviceThermostatIcon from "@mui/icons-material/DeviceThermostat";
+
 import {
   ForecastWidgetsWrapper,
   BarPage,
@@ -29,7 +30,7 @@ export const ForecastWidgets = (props: {
           <h2>{`Weather in ${props.forecast.city}`}</h2>
           <FavoriteCity
             city={props.forecast.city}
-            toggelCity={props.updateFavoriteCities}
+            toggleCity={props.updateFavoriteCities}
             favoriteCities={props.favoriteCities}
           />
         </FavoriteCityTitle>

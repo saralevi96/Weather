@@ -2,6 +2,7 @@ import * as React from "react";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import IconButton from "@mui/material/IconButton";
 import Stack from "@mui/material/Stack";
+import Tooltip from "@mui/material/Tooltip";
 
 import { useState } from "react";
 import { isArrayBuffer } from "util/types";
@@ -19,15 +20,25 @@ const FavoriteCityWrapper = styled.div`
 
 export default function FavoriteCity(props: {
   city: string;
-  toggelCity: () => void;
+  toggleCity: () => void;
   favoriteCities: string[];
 }) {
   return (
     <FavoriteCityWrapper>
-      <IconButton onClick={props.toggelCity}>
-        {props.favoriteCities.includes(props.city) && <FavoriteIcon />}
-        {!props.favoriteCities.includes(props.city) && <FavoriteBorderIcon />}
-      </IconButton>
+      {props.favoriteCities.includes(props.city) && (
+        <Tooltip title="remove from favorites" placement="right">
+          <IconButton onClick={props.toggleCity}>
+            <FavoriteIcon />
+          </IconButton>
+        </Tooltip>
+      )}
+      {!props.favoriteCities.includes(props.city) && (
+        <Tooltip title="save to favorites" placement="right">
+          <IconButton onClick={props.toggleCity}>
+            <FavoriteBorderIcon />
+          </IconButton>
+        </Tooltip>
+      )}
     </FavoriteCityWrapper>
   );
 }

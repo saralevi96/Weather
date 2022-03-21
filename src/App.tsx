@@ -55,9 +55,13 @@ const Title = styled.h1`
 `;
 
 function App() {
+  const favoriteCitiesStorage = localStorage.getItem("favoriteCitiesStorage");
   const [city, setCity] = useState<string>("");
   const [forecast, setForecast] = useState<Forecast | null>(null);
-  const [favoriteCities, setFavoriteCities] = useState<string[]>([]);
+  const [favoriteCities, setFavoriteCities] = useState<string[]>(
+    favoriteCitiesStorage ? favoriteCitiesStorage.split(",") : []
+  );
+
   const updateCity = async (city: string) => {
     setCity(city);
     setForecast(await fetchForcast(city));
@@ -68,16 +72,29 @@ function App() {
       setFavoriteCities(
         favoriteCities.filter((favoriteCity) => favoriteCity != city)
       );
+      localStorage.setItem(
+        "favoriteCitiesStorage",
+        favoriteCities.filter((favoriteCity) => favoriteCity != city).toString()
+      );
     } else {
       setFavoriteCities([...favoriteCities, city]);
+      localStorage.setItem(
+        "favoriteCitiesStorage",
+        [...favoriteCities, city].toString()
+      );
     }
   };
   const deleteFavoriteCity = (deletedCity: string) => {
     setFavoriteCities(
       favoriteCities.filter((favoriteCity) => favoriteCity != deletedCity)
     );
+    localStorage.setItem(
+      "favoriteCitiesStorage",
+      favoriteCities
+        .filter((favoriteCity) => favoriteCity != deletedCity)
+        .toString()
+    );
   };
-
   return (
     <div>
       <AppHeaderWrapper>
