@@ -8,6 +8,9 @@ import {
   YAxis,
   CartesianGrid,
 } from 'recharts';
+import Autocomplete from "@mui/material/Autocomplete";
+import TextField from "@mui/material/TextField";
+import * as React from "react";
 
 export function ForecastLineChart(props: { weather: Weather }) {
 
@@ -17,8 +20,8 @@ export function ForecastLineChart(props: { weather: Weather }) {
 
   return (
     <>
-      <ResponsiveContainer width="70%" aspect={3}>
-        <LineChart data={props.weather} margin={{ right: 500 }}>
+      <ResponsiveContainer width="100%" aspect={3}>
+        <LineChart data={props.weather}>
           <CartesianGrid />
           <XAxis dataKey="date" interval={'preserveStartEnd'} />
           <YAxis

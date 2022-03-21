@@ -1,195 +1,79 @@
-import * as React from 'react';
+import * as React from "react";
+import TextField from "@mui/material/TextField";
+import CITIES_IL from "../data/cityIL.json";
+import { getCurrentCity } from "../function/getCurrentCity2";
+import { useState } from "react";
 
-import TextField from '@mui/material/TextField';
-import Autocomplete from '@mui/material/Autocomplete';
-import CITIES from '../data/cityIL.json';
-import { fetchForcast } from '../function/forcastApi';
-import FavoriteCity from './FavoriteCity';
-//import ButtonSearch from "./ButtonSearch"
-import { getCurrentCity } from '../function/getCurrentCity2';
-import Button from '@mui/material/Button';
-import { useState } from 'react';
-import { Block, Tune } from '@mui/icons-material';
-
-import Stack from '@mui/material/Stack';
-import IconButton from '@mui/material/IconButton';
-import DeleteIcon from '@mui/icons-material/Delete';
-import Box from '@mui/material/Box';
 import {
   SearchCityWrapper,
   SearchCityStyle,
-  ShowFavoriteListCity,
-  ShowFavoriteCity,
   SelectCity,
-  ShowFavoriteCitys,
-  BoxStyle
+  LinkStyle,
+  AutocompleteStyled,
 } from "./SearchCityStyle";
 
+const CITIES_NAMES: string[] = CITIES_IL.map((city: any) => city.name);
 
-
-
-const CitiesTemp: any = CITIES;
-const CITIES_NAMES: string[] = CitiesTemp.map(
-  (city: any) => city.name,
-);
-// export default function SearchCity(props: {
-//   updateForcast: (forcast: Forcast) => void;
-//   forcast: Forcast;
-// }) {
 export default function SearchCity(props: {
   updateCity: (city: string) => void;
   city: string;
 }) {
-  // const [city, setCity] = useState<string>('');
-  const [inputValue, setInputValue] = useState<string>('');
-  const [favoriteCities, setFavoriteCities] = useState<string[]>([]);
-  const [disabledButton, setDisabledButton] = useState<boolean>(true);
-  const [showFavoriteButton, setshowFavoriteButton] =
-    useState<boolean>(false);
+  const [inputValue, setInputValue] = useState<string>("");
 
-  // const setForcast = async (city: string) => {
-  //   const forcast = await fetchForcast(city);
-  //   props.updateForcast(forcast);
-  //   setshowFavoriteButton(true);
-  // };
-  const setCity = async (city: string) => {
-    props.updateCity(city);
-    setshowFavoriteButton(true);
-  };
   const setCurrentCity = async () => {
-    // Moshe
     await getCurrentCity((currentCity) => {
-      setFavoriteCity(currentCity as string);
+      props.updateCity(currentCity as string);
+      setInputValue(currentCity as string);
     });
-
-    // Sara
-    // const currentCity = await getCurrentCity();
-    // setFavoriteCity(currentCity as string);
-  };
-  const setFavoriteCity = (favoriteCity: string) => {
-    setCity(favoriteCity);
-    console.log('call setInputValue with', favoriteCity);
-    setInputValue(favoriteCity);
-  };
-  const toggleCity = () => {
-    if (favoriteCities.includes(inputValue)) {
-      setFavoriteCities(
-        favoriteCities.filter(
-          (favoriteCity) => favoriteCity != inputValue,
-        ),
-      );
-    } else {
-      setFavoriteCities([...favoriteCities, inputValue]);
-    }
-  };
-  const deleteFavoriteCity = (deleteCity: string) => {
-    setFavoriteCities(
-      favoriteCities.filter(
-        (favoriteCity) => favoriteCity != deleteCity,
-      ),
-    );
   };
 
   const options = [
     ...new Set(
       CITIES_NAMES.filter((c: string) =>
-        c.toUpperCase().includes(inputValue.toUpperCase()),
-      ).slice(0, 200),
+        c.toUpperCase().includes(inputValue.toUpperCase())
+      ).slice(0, 200)
     ),
   ];
 
   return (
     <SearchCityWrapper>
-      <SelectCity >
+      <SelectCity>
         <SearchCityStyle>
-          <Autocomplete
+          <AutocompleteStyled
             onChange={(event: any, newValue: string | null) => {
               if (newValue !== null) {
+                props.updateCity(newValue);
                 setInputValue(newValue);
-                setDisabledButton(false);
-              } else {
-                setshowFavoriteButton(false);
-                setDisabledButton(true);
               }
             }}
             inputValue={inputValue}
             onInputChange={(event, newInputValue) => {
               if (!event) return;
-              // if (newInputValue != '') {
-              // console.log(newInputValue);
               setInputValue(newInputValue);
               if (!newInputValue) {
-                setCity(newInputValue);
+                props.updateCity(newInputValue);
               }
-              // }
             }}
             disablePortal
             id="combo-box-demo"
             options={options}
-            sx={{ width: 300 }}
             renderInput={(params) => (
-              <TextField {...params} label="city" />
+              <TextField
+                {...params}
+                placeholder="Search any city in the worlds"
+              />
             )}
-            style={{ height: 55, margin: 10 }}
+            style={{ height: 55, backgroundColor: "white", marginRight: 15 }}
           />
-          <Button
-            style={{ height: 55, margin: 10 }}
-            id="Search"
-            sx={{ width: 300 }}
-            disabled={disabledButton}
-            onClick={() => {
-              setCity(inputValue);
-            }}
-            variant="contained"
-          >
-            Search
-          </Button>
-
-          <Button
-            style={{ height: 55, margin: 10 }}
-            id="current-location"
-            sx={{ width: 300 }}
+          <LinkStyle
+            component="button"
+            variant="body2"
             onClick={setCurrentCity}
-            variant="contained"
           >
-            current location
-          </Button>
+            use my current location
+          </LinkStyle>
         </SearchCityStyle>
-        {showFavoriteButton && (
-          <FavoriteCity
-            city={inputValue}
-            toggelCity={toggleCity}
-            favoriteCities={favoriteCities}
-          />
-        )}
       </SelectCity>
-      <ShowFavoriteCitys>
-        <h1 style={{ color: 'white' }}>favorite city</h1>
-        <BoxStyle>
-          <ShowFavoriteListCity>
-            {favoriteCities.map((favoriteCity) => (
-              <ShowFavoriteCity>
-                <IconButton
-                  onClick={() => {
-                    deleteFavoriteCity(favoriteCity);
-                  }}
-                  aria-label="delete"
-                  size="small"
-                >
-                  <DeleteIcon fontSize="small" />
-                </IconButton>
-                <Button
-                  onClick={() => {
-                    setFavoriteCity(favoriteCity);
-                  }}
-                >
-                  {favoriteCity}
-                </Button>
-              </ShowFavoriteCity>
-            ))}
-          </ShowFavoriteListCity>
-        </BoxStyle>
-      </ShowFavoriteCitys>
     </SearchCityWrapper>
   );
 }

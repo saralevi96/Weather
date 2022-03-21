@@ -1,23 +1,26 @@
-import * as React from 'react';
-import Box from '@mui/material/Box';
-import Tabs from '@mui/material/Tabs';
-import Tab from '@mui/material/Tab';
-import _ from 'lodash';
-import { ForecastLineChart } from './ForecastLineChart';
-import { FunctionComponent } from 'react';
+import * as React from "react";
+import Box from "@mui/material/Box";
+import Tabs from "@mui/material/Tabs";
+import Tab from "@mui/material/Tab";
+import _ from "lodash";
+import { ForecastLineChart } from "./ForecastLineChart";
+import { FunctionComponent } from "react";
 import styled from "styled-components";
 
-const LineChartWidgetWrapper = styled.div`{
+const LineChartWidgetWrapper = styled.div`
+   {
     display: flex;
     flex-direction: column;
-}`
-const LineChart = styled.div`{
+  }
+`;
+const LineChart = styled.div`
+   {
     display: flex;
     max-width: 250px;
     margin-left: 30px;
     margin-bottom: 30px;
-}`
-
+  }
+`;
 
 enum Granularity {
   Daily,
@@ -28,12 +31,10 @@ type LineChartWidgetProps = {
   weather: Weather;
 };
 
-export const LineChartWidget: FunctionComponent<
-  LineChartWidgetProps
-> = ({ weather }) => {
-  const [granularity, setGranularity] = React.useState(
-    Granularity.ThreeHours,
-  );
+export const LineChartWidget: FunctionComponent<LineChartWidgetProps> = ({
+  weather,
+}) => {
+  const [granularity, setGranularity] = React.useState(Granularity.ThreeHours);
   //
   // const weatherDayGroup = _.groupBy(weather, (w) =>
   //   new Date(w.date).toDateString(),
@@ -51,46 +52,50 @@ export const LineChartWidget: FunctionComponent<
   // );
   // _____________________________________
   const weatherDayGroup = _.groupBy(weather, (w) =>
-      new Date(w.date).toDateString(),
+    new Date(w.date).toDateString()
   );
-  const timeNight = [18,21,0,3]
-  const timeMorning = [6,9,12,15]
-  const weatherNight:Weather= (weather.filter(item => timeNight.includes(new Date(item.date).getHours())))
+  const timeNight = [18, 21, 0, 3];
+  const timeMorning = [6, 9, 12, 15];
+  const weatherNight: Weather = weather.filter((item) =>
+    timeNight.includes(new Date(item.date).getHours())
+  );
   const weatherNightDayGroup = _.groupBy(weatherNight, (w) =>
-      new Date(w.date).toDateString(),
+    new Date(w.date).toDateString()
   );
-    const weatherMorning:Weather= (weather.filter(item => timeMorning.includes(new Date(item.date).getHours())))
-    const weatherMorningDayGroup = _.groupBy(weatherMorning, (w) =>
-        new Date(w.date).toDateString(),);
+  const weatherMorning: Weather = weather.filter((item) =>
+    timeMorning.includes(new Date(item.date).getHours())
+  );
+  const weatherMorningDayGroup = _.groupBy(weatherMorning, (w) =>
+    new Date(w.date).toDateString()
+  );
 
   // const weatherMorningDayGroup = _.groupBy(weather, (w) =>
   //     new Date(w.date).toDateString(),
   // );
-  const MeanWeatherDay=(weatherGroup)=>{return ( Object.keys(weatherGroup).map(
-      (dailyDate) => ({
-        date: dailyDate,
-        temperature: _.meanBy(
-            weatherGroup[dailyDate],
-            'temperature').toFixed(2),
-        temperatureMin:_.meanBy(
-            weatherNightDayGroup[dailyDate],
-            'temperature').toFixed(2),
-      temperatureMax:_.meanBy(
-          weatherMorningDayGroup[dailyDate],
-          'temperature').toFixed(2),
-      })
-  ))}
+  const MeanWeatherDay = (weatherGroup) => {
+    return Object.keys(weatherGroup).map((dailyDate) => ({
+      date: dailyDate,
+      temperature: _.meanBy(weatherGroup[dailyDate], "temperature").toFixed(2),
+      temperatureMin: _.meanBy(
+        weatherNightDayGroup[dailyDate],
+        "temperature"
+      ).toFixed(2),
+      temperatureMax: _.meanBy(
+        weatherMorningDayGroup[dailyDate],
+        "temperature"
+      ).toFixed(2),
+    }));
+  };
 
-  const weatherDay:Weather = MeanWeatherDay(weatherDayGroup)
+  const weatherDay: Weather = MeanWeatherDay(weatherDayGroup);
   // const weatherMinDay:Weather = MeanWeatherDay(weatherEveningDayGroup)
-// ________________________________
-
+  // ________________________________
 
   console.log(`weatherDay`);
-  console.log(weatherDay)
+  console.log(weatherDay);
   const handleChange = (
     event: React.SyntheticEvent,
-    newGranularity: Granularity,
+    newGranularity: Granularity
   ) => {
     setGranularity(newGranularity);
   };
@@ -105,11 +110,7 @@ export const LineChartWidget: FunctionComponent<
       </LineChart>
       <Box>
         <ForecastLineChart
-          weather={
-            Granularity.ThreeHours == granularity
-              ? weather
-              : weatherDay
-          }
+          weather={Granularity.ThreeHours == granularity ? weather : weatherDay}
         />
       </Box>
     </LineChartWidgetWrapper>
