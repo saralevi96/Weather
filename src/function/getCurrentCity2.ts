@@ -22,8 +22,8 @@ export async function getCity(lat: number, lon: number) {
     const data = await response.json();
     console.log(`fetch forcast data`, data);
     return data.city.name;
-  } catch {
-    console.error("error");
+  } catch (error) {
+    console.error("error", error);
     return null;
   }
 }

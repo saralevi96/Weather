@@ -14,7 +14,6 @@ const FavoriteCityWrapper = styled.div`
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
-    gap: 10px;
   }
 `;
 
@@ -26,14 +25,14 @@ export default function FavoriteCity(props: {
   return (
     <FavoriteCityWrapper>
       {props.favoriteCities.includes(props.city) && (
-        <Tooltip title="remove from favorites" placement="right">
+        <Tooltip title="remove from favorites" placement="bottom">
           <IconButton onClick={props.toggleCity}>
             <FavoriteIcon />
           </IconButton>
         </Tooltip>
       )}
       {!props.favoriteCities.includes(props.city) && (
-        <Tooltip title="save to favorites" placement="right">
+        <Tooltip title="save to favorites" placement="bottom">
           <IconButton onClick={props.toggleCity}>
             <FavoriteBorderIcon />
           </IconButton>

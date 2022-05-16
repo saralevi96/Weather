@@ -1,13 +1,13 @@
 type Forecast = {
-    city : string,
-    descriptionToday:string,
-    weather:Weather,
-    iconId:string
-}|null
+  city: string;
+  weather: Weather;
+  iconId: string;
+  description: string[];
+} | null;
 
 type Weather = {
-    date: string,
-    temperature: number,
-    temperatureMin?:number
-    temperatureMax?:number
-}[]
+  date: string;
+  temperature: number;
+  nightTimeTemperature?: number;
+  dayTimeTemperature?: number;
+}[];

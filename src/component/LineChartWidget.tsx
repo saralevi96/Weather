@@ -6,6 +6,7 @@ import _ from "lodash";
 import { ForecastLineChart } from "./ForecastLineChart";
 import { FunctionComponent } from "react";
 import styled from "styled-components";
+import { Degree } from "../enums";
 
 const LineChartWidgetWrapper = styled.div`
    {
@@ -29,40 +30,38 @@ enum Granularity {
 
 type LineChartWidgetProps = {
   weather: Weather;
+  degreeType: Degree;
 };
 
 export const LineChartWidget: FunctionComponent<LineChartWidgetProps> = ({
   weather,
+  degreeType,
 }) => {
   const [granularity, setGranularity] = React.useState(Granularity.ThreeHours);
-  //
-  // const weatherDayGroup = _.groupBy(weather, (w) =>
-  //   new Date(w.date).toDateString(),
-  // );
-  // console.log(`weatherDayGroup`)
-  //   console.log(weatherDayGroup)
-
-  // const weatherDay: Weather = Object.keys(weatherDayGroup).map(
-  //   (dailyDate) => ({
-  //     date: dailyDate,
-  //     temperature: _.meanBy(
-  //       weatherDayGroup[dailyDate],
-  //       'temperature')
-  //   })
-  // );
+  let convertedWeather;
+  if (degreeType) {
+    convertedWeather = Object.keys(weather).map((wat) => ({
+      temperature: (weather[wat].temperature * 9) / 5 + 32,
+      date: weather[wat].date,
+    }));
+  } else {
+    convertedWeather = weather;
+  }
+  console.log("convertedWeather");
+  console.log(convertedWeather);
   // _____________________________________
-  const weatherDayGroup = _.groupBy(weather, (w) =>
+  const weatherDayGroup = _.groupBy(convertedWeather, (w) =>
     new Date(w.date).toDateString()
   );
   const timeNight = [18, 21, 0, 3];
   const timeMorning = [6, 9, 12, 15];
-  const weatherNight: Weather = weather.filter((item) =>
+  const weatherNight: Weather = convertedWeather.filter((item) =>
     timeNight.includes(new Date(item.date).getHours())
   );
   const weatherNightDayGroup = _.groupBy(weatherNight, (w) =>
     new Date(w.date).toDateString()
   );
-  const weatherMorning: Weather = weather.filter((item) =>
+  const weatherMorning: Weather = convertedWeather.filter((item) =>
     timeMorning.includes(new Date(item.date).getHours())
   );
   const weatherMorningDayGroup = _.groupBy(weatherMorning, (w) =>
@@ -76,11 +75,11 @@ export const LineChartWidget: FunctionComponent<LineChartWidgetProps> = ({
     return Object.keys(weatherGroup).map((dailyDate) => ({
       date: dailyDate,
       temperature: _.meanBy(weatherGroup[dailyDate], "temperature").toFixed(2),
-      temperatureMin: _.meanBy(
+      nightTimeTemperature: _.meanBy(
         weatherNightDayGroup[dailyDate],
         "temperature"
       ).toFixed(2),
-      temperatureMax: _.meanBy(
+      dayTimeTemperature: _.meanBy(
         weatherMorningDayGroup[dailyDate],
         "temperature"
       ).toFixed(2),
@@ -110,9 +109,15 @@ export const LineChartWidget: FunctionComponent<LineChartWidgetProps> = ({
       </LineChart>
       <Box>
         <ForecastLineChart
-          weather={Granularity.ThreeHours == granularity ? weather : weatherDay}
+          weather={
+            Granularity.ThreeHours == granularity
+              ? convertedWeather
+              : weatherDay
+          }
         />
       </Box>
     </LineChartWidgetWrapper>
   );
 };
+
+//°C× 9/5 + 32 = °F

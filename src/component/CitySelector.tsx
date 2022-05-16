@@ -14,7 +14,7 @@ import {
 
 const CITIES_NAMES: string[] = CITIES_IL.map((city: any) => city.name);
 
-export default function SearchCity(props: {
+export function CitySelector(props: {
   updateCity: (city: string) => void;
   city: string;
 }) {
