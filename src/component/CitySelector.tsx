@@ -1,7 +1,7 @@
 import * as React from "react";
 import TextField from "@mui/material/TextField";
 import CITIES_IL from "../data/cityIL.json";
-import { getCurrentCity } from "../function/getCurrentCity2";
+import { getCurrentCity } from "../function/getCurrentCity";
 import { useState } from "react";
 
 import {
