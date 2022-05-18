@@ -1,1 +1,1 @@
-[ Alt text](README.gif) 
+![ Alt text](README.gif) 
