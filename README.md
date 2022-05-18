@@ -1,1 +1,1 @@
-![ Alt text](README.gif) / ! [](README.gif)
+[ Alt text](README.gif) 
