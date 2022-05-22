@@ -2,7 +2,7 @@ import * as React from "react";
 import TextField from "@mui/material/TextField";
 import CITIES_IL from "../data/cityIL.json";
 import { getCurrentCity } from "../function/getCurrentCity";
-import { useState } from "react";
+import { FC, useState } from "react";
 
 import {
   SearchCityWrapper,
@@ -12,17 +12,18 @@ import {
   AutocompleteStyled,
 } from "./SearchCityStyle";
 
+interface ICitySelectorProps {
+  updateCity: (city: string) => void;
+}
+
 const CITIES_NAMES: string[] = CITIES_IL.map((city: any) => city.name);
 
-export function CitySelector(props: {
-  updateCity: (city: string) => void;
-  city: string;
-}) {
+export const CitySelector: FC<ICitySelectorProps> = ({ updateCity }) => {
   const [inputValue, setInputValue] = useState<string>("");
 
   const setCurrentCity = async () => {
     await getCurrentCity((currentCity) => {
-      props.updateCity(currentCity as string);
+      updateCity(currentCity as string);
       setInputValue(currentCity as string);
     });
   };
@@ -42,7 +43,7 @@ export function CitySelector(props: {
           <AutocompleteStyled
             onChange={(event: any, newValue: string | null) => {
               if (newValue !== null) {
-                props.updateCity(newValue);
+                updateCity(newValue);
                 setInputValue(newValue);
               }
             }}
@@ -51,7 +52,7 @@ export function CitySelector(props: {
               if (!event) return;
               setInputValue(newInputValue);
               if (!newInputValue) {
-                props.updateCity(newInputValue);
+                updateCity(newInputValue);
               }
             }}
             disablePortal
@@ -76,4 +77,4 @@ export function CitySelector(props: {
       </SelectCity>
     </SearchCityWrapper>
   );
-}
+};

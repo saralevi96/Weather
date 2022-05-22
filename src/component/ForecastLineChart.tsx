@@ -8,19 +8,22 @@ import {
   YAxis,
   CartesianGrid,
 } from "recharts";
-import Autocomplete from "@mui/material/Autocomplete";
-import TextField from "@mui/material/TextField";
 import * as React from "react";
+import { FC } from "react";
 
-export function ForecastLineChart(props: { weather: Weather }) {
-  const arrayTemperature = [...props.weather.map((item) => item.temperature)];
+interface IForecastLineChartProps {
+  weather: Weather;
+}
+
+export const ForecastLineChart: FC<IForecastLineChartProps> = ({ weather }) => {
+  const arrayTemperature = weather.map((item) => item.temperature);
   const minTemp = Math.min(...arrayTemperature);
   const maxTemp = Math.max(...arrayTemperature);
 
   return (
     <>
       <ResponsiveContainer width="100%" aspect={3}>
-        <LineChart data={props.weather}>
+        <LineChart data={weather}>
           <CartesianGrid />
           <XAxis dataKey="date" interval={"preserveStartEnd"} />
           <YAxis
@@ -31,14 +34,14 @@ export function ForecastLineChart(props: { weather: Weather }) {
           <Tooltip />
 
           <Line dataKey="temperature" stroke="black" />
-          {Object.keys(props.weather[0]).includes("nightTimeTemperature") && (
+          {Object.keys(weather[0]).includes("nightTimeTemperature") && (
             <Line dataKey="nightTimeTemperature" stroke="blue" />
           )}
-          {Object.keys(props.weather[0]).includes("dayTimeTemperature") && (
+          {Object.keys(weather[0]).includes("dayTimeTemperature") && (
             <Line dataKey="dayTimeTemperature" stroke="red" />
           )}
         </LineChart>
       </ResponsiveContainer>
     </>
   );
-}
+};

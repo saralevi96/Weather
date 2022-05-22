@@ -1,11 +1,10 @@
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 
 import { ForecastWidgets } from "./component/ForecastWidgets";
 import { CitySelector } from "./component/CitySelector";
-import { fetchForcast } from "./function/forcastApi";
+import { fetchForecast } from "./function/forcastApi";
 import styled from "styled-components";
-import SelectCityFavorite from "./component/SelectCityFavorite";
-import FavoriteCity from "./component/FavoriteCity";
+import { SelectCityFavorite } from "./component/SelectCityFavorite";
 
 const AppHeaderWrapper = styled.div`
    {
@@ -57,13 +56,22 @@ function App() {
   const favoriteCitiesStorage = localStorage.getItem("favoriteCitiesStorage");
   const [city, setCity] = useState<string>("");
   const [forecast, setForecast] = useState<Forecast | null>(null);
+  const [isApiError, setIsApiError] = useState<boolean>(false);
   const [favoriteCities, setFavoriteCities] = useState<string[]>(
     favoriteCitiesStorage ? favoriteCitiesStorage.split(",") : []
   );
 
   const updateCity = async (city: string) => {
     setCity(city);
-    setForecast(await fetchForcast(city));
+    try {
+      const APIFetchForecast = await fetchForecast(city);
+      setForecast(APIFetchForecast);
+      setIsApiError(false);
+    } catch (error) {
+      console.error("Error from the forcast API", error);
+      setForecast(null);
+      setIsApiError(true);
+    }
   };
 
   const updateFavoriteCities = () => {
@@ -94,6 +102,7 @@ function App() {
         .toString()
     );
   };
+
   return (
     <div>
       <AppHeaderWrapper>
@@ -107,17 +116,18 @@ function App() {
             />
           </TitleWrapper>
           <h4>Select a location to start</h4>
-          <CitySelector updateCity={updateCity} city={city} />
+          <CitySelector updateCity={updateCity} />
         </AppHeader>
       </AppHeaderWrapper>
       <ForecastDashboardsWrapper>
-        {forecast && (
+        {forecast && !isApiError && (
           <ForecastWidgets
             forecast={forecast}
             updateFavoriteCities={updateFavoriteCities}
             favoriteCities={favoriteCities}
           />
         )}
+        {isApiError && <h4>Sorry there was an error...</h4>}
       </ForecastDashboardsWrapper>
     </div>
   );

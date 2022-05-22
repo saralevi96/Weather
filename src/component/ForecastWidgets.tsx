@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { FC } from "react";
 import { LineChartWidget } from "./LineChartWidget";
 
 import Tab from "@mui/material/Tab";
@@ -13,16 +13,22 @@ import {
   Separate,
   TabsStyle,
 } from "./ForecastWidgetsStyle";
-import FavoriteCity from "./FavoriteCity";
+import { FavoriteToggle } from "./FavoriteToggle";
 import { Degree } from "../enums";
 
-export const ForecastWidgets = (props: {
-  forecast: Forecast | null;
+interface IForecastWidgetsProps {
+  forecast?: Forecast;
   favoriteCities: string[];
   updateFavoriteCities: () => void;
+}
+
+export const ForecastWidgets: FC<IForecastWidgetsProps> = ({
+  forecast,
+  favoriteCities,
+  updateFavoriteCities,
 }) => {
   const [degreeType, setDegreeType] = React.useState(Degree.Celsius);
-  if (!props.forecast) {
+  if (!forecast) {
     return null;
   }
 
@@ -32,6 +38,9 @@ export const ForecastWidgets = (props: {
   ) => {
     setDegreeType(newGranularity);
   };
+  const temperature = degreeType
+    ? ((forecast.weather[0].temperature * 9) / 5 + 32).toFixed(2)
+    : forecast.weather[0].temperature;
 
   return (
     <ForecastWidgetsWrapper>
@@ -40,11 +49,11 @@ export const ForecastWidgets = (props: {
           <DegreesChoice>
             <Description>
               <img
-                src={`https://openweathermap.org/img/wn/${props.forecast.iconId}@2x.png`}
+                src={`https://openweathermap.org/img/wn/${forecast.iconId}@2x.png`}
                 alt="Logo"
                 width="50%"
               />
-              {props.forecast.weather[0].temperature}
+              {temperature}
             </Description>
             <TabsStyle value={degreeType} onChange={handleChange}>
               <Tab value={Degree.Celsius} label="°C" />
@@ -54,24 +63,20 @@ export const ForecastWidgets = (props: {
           </DegreesChoice>
           <div>
             <FavoriteCityTitle>
-              <h2>{props.forecast.city}</h2>
-              <FavoriteCity
-                city={props.forecast.city}
-                toggleCity={props.updateFavoriteCities}
-                favoriteCities={props.favoriteCities}
+              <h2>{forecast.city}</h2>
+              <FavoriteToggle
+                isInFavorite={favoriteCities.includes(forecast.city)}
+                updateFavorite={updateFavoriteCities}
               />
             </FavoriteCityTitle>
             <DateStyle>
-              {new Date(props.forecast.weather[0].date).toDateString()}
+              {new Date(forecast.weather[0].date).toDateString()}
             </DateStyle>
           </div>
         </CardDescriptionWrapper>
       </BarPage>
       <div>
-        <LineChartWidget
-          weather={props.forecast.weather}
-          degreeType={degreeType}
-        />
+        <LineChartWidget weather={forecast.weather} degreeType={degreeType} />
       </div>
     </ForecastWidgetsWrapper>
   );
